@@ -1,0 +1,939 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A synopsis of councels. By John Prideaux, late Regius Professour of Divinity at Oxford, and Bishop of Worcester</title>
+            <author>Prideaux, John, 1578-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 119 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55845</idno>
+            <idno type="STC">Wing P3436B</idno>
+            <idno type="STC">ESTC R220554</idno>
+            <idno type="EEBO-CITATION">99831950</idno>
+            <idno type="PROQUEST">99831950</idno>
+            <idno type="VID">36417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55845)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36417)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2131:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A synopsis of councels. By John Prideaux, late Regius Professour of Divinity at Oxford, and Bishop of Worcester</title>
+                  <author>Prideaux, John, 1578-1650.</author>
+               </titleStmt>
+               <extent>[2], 58, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by A. &amp; L. Lichfield, printers to the University,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With two final contents leaves.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Councils and synods --  England --  Early works to 1800.</term>
+               <term>Clergy --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36417:1"/>
+            <p>A SYNOPSIS OF COUNCELS.</p>
+            <p>By <hi>JOHN PRIDEA<g ref="char:V">Ʋ</g>X,</hi> late Regius <hi>Profeſſour</hi> of Divinity at <hi>Oxford,</hi> and Biſhop of <hi>Worceſter.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>OXFORD,</hi> Printed by A. &amp; L. LICHFIELD. Printers to the Univerſity, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb facs="tcp:36417:2"/>
+            <pb n="1" facs="tcp:36417:2" rendition="simple:additions"/>
+            <head>CAP. I. Of <hi>Synods</hi> in General.</head>
+            <p n="1">1. <seg rend="decorInit">S</seg>Ynodographie is that, which ſo Metho<g ref="char:EOLhyphen"/>dically doth lay before our eyes a Synopſis of Councels, and other Eccleſiaſticall meetings, that it may clearly appear to him that doubts, how any caſe in them may be enqui<g ref="char:EOLhyphen"/>red after, and what may be determined concerning it being found.</p>
+            <p n="2">2. A Councel is a free publique Eccleſiaſtical meeting, eſpecially of Biſhops and alſo of other Doctors lawfully deputed by diverſe Churches, for the examining of Eccleſi<g ref="char:EOLhyphen"/>aſtical cauſes, according to the Scriptures, and thoſe accord<g ref="char:EOLhyphen"/>ing to the power given by common Suffrages, without favour of parties to be determined, in matters of Faith by Canons, in caſes of practiſe, by Preſidents, in Diſcipline, by Decrees and Conſtitutions. Therefore,</p>
+            <p n="3">
+               <pb facs="tcp:36417:3"/>
+3. They are not to be called. 1. For the deciding of Popiſh and political Controverſies, which more properly belong to Diets, Parliaments, and Aſſemblies. 2. Neither is it an office appertaining to the Pope to Aſſemble; much leſſe (except he be ſpecially elected thereto by the Aſſem<g ref="char:EOLhyphen"/>bled) to ſit as chief over them. 3. Neither may others un<g ref="char:EOLhyphen"/>leſſe Biſhops, or ſome otherwiſe Deputed by their Churches, in them paſſe a determinative ſentence. 4. Neither may any ſentence or decree be admitted as neceſſary unto Salva<g ref="char:EOLhyphen"/>tion, unleſſe it hath ſtrength and Authority from the Word of God. 5. Neither may publick decrees be rejected by private perſons who conſent unto them by their Deputies, but they muſt acquieſſe in them and ſuffer them, until an Authority-frees equal to that which did bind.</p>
+            <p n="4">4. Such have been and frequently hap<g ref="char:EOLhyphen"/>pen, as
+<list>
+                  <item>1. Judaical.</item>
+                  <item>2. Apoſtolical.</item>
+                  <item>3. Oecumenical.</item>
+                  <item>4. Controverted.</item>
+                  <item>5. Rejected.</item>
+                  <item>6. National.</item>
+                  <item>7. Conferences.</item>
+               </list>
+            </p>
+            <div type="inquiries">
+               <pb n="3" facs="tcp:36417:3"/>
+               <head>INQUIRIES.</head>
+               <p>Whether
+<list>
+                     <item>1. Councels are of divine Authority and ſim<g ref="char:EOLhyphen"/>ply neceſſary? <hi>Neg.</hi>
+                     </item>
+                     <item>2. The Authority of convening Councels reſts in the power of one perſon, or ſome certain Prelates or Princes? <hi>Neg.</hi>
+                     </item>
+                     <item>3. Councels may be called to determine poli<g ref="char:EOLhyphen"/>tical affairs, or private Controverſies? N.</item>
+                     <item>4. Only Eccleſiaſtical Prelates have determi<g ref="char:EOLhyphen"/>native Suffrages in them? <hi>Aff.</hi>
+                     </item>
+                     <item>5. A controverted place of Scripture may be more ſafely ſought from Councels than from private Doctors? <hi>Aff.</hi>
+                     </item>
+                     <item>6. The Decrees of Councels contrary to the plain Texts of Scripture are of any vali<g ref="char:EOLhyphen"/>dity? <hi>Neg.</hi>
+                     </item>
+                     <item>7. We muſt acquieſſe in the Decrees of a Councel, at leaſt not publikely oppoſe them till the like Authority of diſſenting men give us liberty ſo to do? <hi>Aff.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="4" facs="tcp:36417:4"/>
+            <head>CAP. II. Of <hi>Judaical Councels.</hi>
+            </head>
+            <p n="1">1. UNder the Title of <hi>Judaical Councels,</hi> we com<g ref="char:EOLhyphen"/>prehend not, either, 1. The <hi>Sanedrim Gedolah,</hi> conſtituted of 72 Elders, <hi>Num.</hi> 11.24. Or 2. The <hi>Sanedrim Katon,</hi> a Conſiſtory of 23 perſons ſitting at the Gates, <hi>Deut.</hi> 16.18. Or 3. The three <hi>Dijanims,</hi> the Decidours of Controverſies in Smaller Towns, <hi>Mat.</hi> 5.22. Becauſe ſuch as theſe were appointed for the preſerving of Doctrine, Worſhip and Diſcipline, as well in the Common<g ref="char:EOLhyphen"/>wealth, as in the Church; but the more ſolemn meetings about extraordinary affairs for the confirming, removing, or reforming any thing as the matter required.</p>
+            <p n="2">
+               <pb n="5" facs="tcp:36417:4"/>
+2. Such meetings are ob<g ref="char:EOLhyphen"/>ſerved to have bin
+<list>
+                  <item>1. At <hi>Sichem</hi> under <hi>Joſhua</hi> and <hi>Eliazer.</hi> 1. Con<g ref="char:EOLhyphen"/>cerning prohibiting Society with the Gen<g ref="char:EOLhyphen"/>tiles. 2. Concerning the rooting out of ſtrange gods. 3. Concerning the burying of <hi>Joſephs</hi> bones in his own poſſeſſion as he himſelf com<g ref="char:EOLhyphen"/>manded. <hi>Joſh.</hi> 24.</item>
+                  <item>2. At <hi>Hieruſalem,</hi> the firſt under <hi>David, Gad</hi> and <hi>Nathan</hi> being his aſſiſtants. 1. Concerning the numbering of the <hi>Levites.</hi> 2. The diſtribution of the Prieſts into 24 Claſſes. 3. Concerning each of their Offices, 1. <hi>Chron.</hi> 13. which <hi>Hezechiah</hi> reſtored, 2 <hi>Chron.</hi> 29.25.</item>
+                  <item>3. At <hi>Carmelita</hi> under <hi>Ahab</hi> and <hi>Elias,</hi> where 1. The worſhipping of <hi>Baal</hi> was diſcuſſed. 2. The true worſhip of God was mira<g ref="char:EOLhyphen"/>culouſly confirmed. 3. Severe puniſhment was inflicted upon the worſhippers of <hi>Baal,</hi> 1. <hi>Kings</hi> 18.</item>
+                  <item>4. At <hi>Hieruſalem</hi> the ſecond under <hi>Hezechiah.</hi> Concerning 1. The purging of the Tem<g ref="char:EOLhyphen"/>ple. 2. The inſtituting of true Worſhip according to <hi>Davids</hi> preſcript. Where it is probable was a Decree made concerning the tranſcribing of <hi>Solomons</hi> Proverbs, ac<g ref="char:EOLhyphen"/>cording to the Title, <hi>Cap.</hi> 25.2. <hi>Chron.</hi> 29.</item>
+                  <item>5. At <hi>Hieruſalem</hi> the third under <hi>Joſiah</hi> and <hi>Helkiah</hi> in which 1. The Temple again was purged. 2. Idolatry was rooted out. 3. The Covenant with the Lord renewed, ac<g ref="char:EOLhyphen"/>cording to the book of the Law found by <hi>Hel<g ref="char:EOLhyphen"/>kiah</hi> amongſt the rubbiſh of the Temple. 2. <hi>Kings</hi> 33. 2. <hi>Chron.</hi> 34.</item>
+                  <item>6. At <hi>Hieruſalem</hi> the fourth under <hi>Zorobabel</hi> and <hi>Ezra</hi> and other chief perſons of the <hi>Jews</hi> that returned from the Captivity of <hi>Babylon,</hi> in which. 1. The Canonicall
+<pb facs="tcp:36417:5"/>books were chiefly by <hi>Ezra</hi> ſet in that order as now we have them. 2. The <hi>Feſukim, Para<g ref="char:EOLhyphen"/>ſchim,</hi> and <hi>Heptakim</hi> were added for the di<g ref="char:EOLhyphen"/>ſtinction and reading of the Text. 3. The <hi>Maſoreth</hi> with the <hi>Tikkum Sopherim</hi> was begun and proſecuted for the preſerving and tranſmitting to poſterity the holy Language by Hebrew points and other marks, <hi>Elias Le<g ref="char:EOLhyphen"/>vita Praef.</hi> 3. <hi>Maſor. Genebr. Chron. l.</hi> 2. <hi>p.</hi> 183</item>
+                  <item>7. That which is called the Synod of the Wiſe under <hi>John Hircanus.</hi> 1. Concerning the re<g ref="char:EOLhyphen"/>ceiving of the <hi>Phariſes</hi> and <hi>Scribes</hi> with their leaders <hi>Sammei</hi> and <hi>Hillel.</hi> 2. Concerning the condemning of the <hi>Sadduces</hi> with their <hi>Au<g ref="char:EOLhyphen"/>thors, Sadoc</hi> and <hi>Bajethos,</hi> who for that reaſon betook themſelves to the <hi>Samaritans,</hi> denying the immortality of the ſoul, and that there is any reward in the world to come. Where 3. Some ſuppoſe the books which we call <hi>Apocry<g ref="char:EOLhyphen"/>phie</hi> were made Canonical by the third Canon of the Hebrews. <hi>Genebrard. Chron. l.</hi> 2. <hi>p.</hi> 197.</item>
+               </list>
+            </p>
+            <div type="inquiries">
+               <pb n="7" facs="tcp:36417:5"/>
+               <head>INQUIRIES.</head>
+               <p n="3">3. Whether
+<list>
+                     <item>1. The Tradition of the <hi>Cabala</hi> was enjoyned at the Synod of <hi>Sychem?</hi> D.</item>
+                     <item>2. Some of <hi>Solomons Proverbs</hi> were perfected and tranſmitted to poſterity by <hi>Hezekiah's</hi> ſervants according to the Decree of any Councel or otherwiſe? D.</item>
+                     <item>3. The Maſoreth and Hebrew points borrowed their authority from the fourth Councel at <hi>Hieruſalem?</hi> Probable.</item>
+                     <item>4. The writings which we call <hi>Apocriphal,</hi> were brought into the <hi>Canon</hi> by any Synod of the Jews? <hi>vid. Genebr. Chron. l.</hi> 2. <hi>p.</hi> 190. <hi>&amp;</hi> 197. Improbable.</item>
+                     <item>5. The epicuriſm of the <hi>Sadduces,</hi> or the proud and covetous hypocraſie of the <hi>Phariſes</hi> was more intollerable to the pious and Orthodox or more pernitious to the Church? D.</item>
+                     <item>6. That meeting under <hi>Ptolomie Philometer</hi> concerning the antiquity of the Temple of <hi>Hieruſalem</hi> and of <hi>Samaria</hi> mentioned by <hi>Joſephus Antiq. l.</hi> 13. <hi>c.</hi> 6. Is rightly reckoned by ſome among the <hi>Jewiſh Synods?</hi> N.</item>
+                     <item>7. The convening of the Prieſts and Scribes by <hi>Herod</hi> only for inquiſition of the place where Chriſt was born, was rather an occaſional conſultation then a Councel? <hi>Aff.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="8" facs="tcp:36417:6"/>
+            <head>CAP. III. Of <hi>Apoſtolical Councels.</hi>
+            </head>
+            <p n="1">1. TO Apoſtolical Councels are referred thoſe, which are found to be celebrated, either 1. Againſt the Apoſtles, or 2. By them. Againſt them were convented (that the Goſpel, if it were poſſible, ſhould be ſmothered in the very Cradle) 1. <hi>Annas, Caiaphas, John</hi> and <hi>Alexander,</hi> with the whole Generation of Prieſts, <hi>Act.</hi> 4.6. who ordained that none ſhould ſpeak or teach in the name of <hi>Jeſus,</hi> v. 18. 2. The ſame Perſons were convened with the <hi>Sadduces,</hi> where the Apoſtles, deſigned for Maſſacre, were freed by <hi>Gamaleel,</hi> and their puniſhment was mittiga<g ref="char:EOLhyphen"/>ted, and they diſmiſſed only with whipping, <hi>Act.</hi> 5. Their 3<hi rend="sup">d</hi> Councel judged <hi>Stephen</hi> to be ſtoned, <hi>Acts</hi> 6.12. In the 4<hi rend="sup">th</hi> Councel under <hi>Ananias, Paul</hi> was beaten, and welnigh torn in pieces between the <hi>Phariſes</hi> and <hi>Sadduces, Act.</hi> 23.10. The 5<hi rend="sup">th</hi> is ſaid to be called by <hi>Ananias</hi> the younger, where <hi>James</hi> the brother of the Lord, with ſome others were ſen<g ref="char:EOLhyphen"/>tenced to death, <hi>Joſeph. Antiq. l.</hi> 20. <hi>c.</hi> 8.</p>
+            <p n="2">
+               <pb n="9" facs="tcp:36417:6"/>
+2. The Councells celebrated by the A<g ref="char:EOLhyphen"/>poſtles are commonly noted.
+<list>
+                  <item>1. For the ſubſtituting of <hi>Mathias</hi> in the place of <hi>Judas</hi> who betrayed our Saviour, <hi>Act.</hi> 1.</item>
+                  <item>2. For the election of ſeven Deacons, <hi>Act.</hi> 6.</item>
+                  <item>3. For not preſſing of the Ceremonial Law, ſeeing that juſtification may be obtained by the Grace of God alone in Chriſt. <hi>Acts</hi> 15.11. in which may be obſerved an exact di<g ref="char:EOLhyphen"/>rectory for the following Councels.</item>
+                  <item>4. For the toleration of ſome legal obſervati<g ref="char:EOLhyphen"/>ons for a time, that by ſuch a condeſcention the weaker ſortmight be gained, and the Mother Synagogue honourably inter'd and aboliſht. <hi>Act.</hi> 21.18.</item>
+                  <item>5. For the meeting, wherein was compoſed the Apoſtles Creed, by the Apoſtles met toge<g ref="char:EOLhyphen"/>ther, every one contributing his part.</item>
+                  <item>6. For the meeting which did obtrude to the Church 85 Canons under the notion of the Apoſtles authority, concerning which there are various Controverſies.</item>
+                  <item>7. For the meeting at <hi>Antioch</hi> were among nine Canons, the eighth commanded Images of Chriſt to be ſubſtituted in the room of Hea<g ref="char:EOLhyphen"/>theniſh Idols, the other pious Canons being deſtitute of the Authority of the Synod. <hi>vid. Bin. Tom.</hi> 1. <hi>p.</hi> 19. <hi>&amp; Longum. p.</hi> 147.</item>
+               </list>
+            </p>
+            <div type="inquiries">
+               <pb n="10" facs="tcp:36417:7"/>
+               <head>INQUIRIES.</head>
+               <p>Whether
+<list>
+                     <item>1. The Apoſtles met together in any Synod for the compoſing of the Creed which we have? <hi>D.</hi>
+                     </item>
+                     <item>2.
+<note place="margin">S. <hi>Clement</hi> the Diſciple of <hi>Peter</hi> wrote them in Greek. <hi>Dionyſius</hi> the leſſe did tranſlate them into Latine.</note> The Canons commonly termed Apoſtolical be unjuſtly attributed to the Apoſtles? <hi>A.</hi>
+                     </item>
+                     <item>3. The Author, Authority or number of them be certainly known. <hi>vid. Joverium. p.</hi> 2. <hi>N.</hi>
+                     </item>
+                     <item>4. The Epitome of Apoſtolical conſtitutions found in <hi>Crete</hi> and publiſhed by <hi>Charles Kapellicus</hi> be of any moment? Conſult <hi>P. Crab. N.</hi>
+                     </item>
+                     <item>5. The Aſſumption of the Bleſſed Virgin at a convention of the Apoſtles hath any ground or foundation? <hi>N.</hi>
+                     </item>
+                     <item>6. The Councel held at <hi>Antioch</hi> concerning ap<g ref="char:EOLhyphen"/>probation of Images be altogether imagi<g ref="char:EOLhyphen"/>nary? <hi>A.</hi>
+                     </item>
+                     <item>7. That compleat Councel of the Apoſtles <hi>Act.</hi> 15. may be an example for all other Synods to imitate? <hi>A.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="11" facs="tcp:36417:7"/>
+            <head>CAP. IV. Of Approved <hi>Oecumenical Councels.</hi>
+            </head>
+            <head type="sub">SECT. I. Of the <hi>Greek</hi> or <hi>Eaſtern Oecumenical Councels.</hi>
+            </head>
+            <p n="1">1. OEcumenicall or Generall Councels are ſuch wherein Biſhops and other Learned men out of every Country, may freely meet together for the diſcuſſing and determining of Eccleſiaſtical affairs, piouſly, prudently, and orderly, without favour of Parties according to the Word of God, and the received Canons of the Church.</p>
+            <p n="2">2. Such are
+<list>
+                  <item>1. <hi>Greek</hi> or <hi>Eaſtern.</hi>
+                  </item>
+                  <item>2. <hi>Latine</hi> or <hi>Weſtern.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:36417:8"/>
+Of the Greek Councels as the more fa<g ref="char:EOLhyphen"/>mous may be reckoned.
+<list>
+                  <item>1. The NICENE, the 1.</item>
+                  <item>2. Of CONSTANTINOPLE, the 1.</item>
+                  <item>3. Of EPHESUS, the 1.</item>
+                  <item>4. Of CALCEDON,</item>
+                  <item>5. Of CONSTANTINOPLE, the 2d.</item>
+                  <item>6. Of CONSTANTINOPLE, the 3d,</item>
+                  <item>7. The NICENE, the 2d.</item>
+               </list>
+            </p>
+            <p n="4">4. <label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>235</label> The firſt NICENE Councel ſo called becauſe it was celebrated at <hi>Nicea</hi> of <hi>Bithinia</hi> (where afterwards the <hi>Arians,</hi>
+               <note place="margin">
+                  <hi>Hillar. Socrat.</hi> L. 2. <hi>c.</hi> 29. <hi>Baron. an.</hi> 359. <hi>N.</hi> 27. <hi>Longus.</hi>
+               </note> that they might make this void, called another Councel) by the Authority of <hi>Conſtantine</hi> the Great, in the time of <hi>Julius</hi> the firſt, and <hi>Sylveſter,</hi> Popes. 2. It con<g ref="char:EOLhyphen"/>ſiſted of 318. Biſhops, <hi>Hoſius</hi> of <hi>Carduba</hi> being Preſident, having for his aſſociats <hi>Potomon</hi> of <hi>Heraclia, Papnutius</hi> a <hi>Theban,</hi> of whom each loſt an eye for Chriſts cauſe, to<g ref="char:EOLhyphen"/>gether with <hi>Paulus</hi> of new <hi>Ceſaria,</hi> who, for the ſame pro<g ref="char:EOLhyphen"/>feſſion, was compelled to carry an hot Iron in his hand, and <hi>Euſtachius</hi> of <hi>Antioch,</hi> who in the name of the Coun<g ref="char:EOLhyphen"/>cel, entertained the Emperour with an elegant Oration, with many more famous for Learning and Miracles. 3. The Canons of it being only 20. (nor is it ſufficient<g ref="char:EOLhyphen"/>ly manifeſt how warrantable) came to the hands of Poſte<g ref="char:EOLhyphen"/>rity. Perhaps this hapned by the power and ſubtlety of the <hi>Artans.</hi> Some obtrude more lately found by the Je<g ref="char:EOLhyphen"/>ſuites, <hi>Turrianus</hi> and <hi>Piſanus</hi> in ſome hidden places of <hi>Ara<g ref="char:EOLhyphen"/>bia,</hi> which the more Judicious doe little eſteem. 4. Three things eſpecially are reported as condemned by this fa<g ref="char:EOLhyphen"/>mous Synod. 1. The <hi>Arian</hi> Hereſie, Blaſphemouſly de<g ref="char:EOLhyphen"/>nying the Sonne to be Coeternall, and Coeſſentiall with the Father. 2. The diſſent of the Eaſtern from the We<g ref="char:EOLhyphen"/>ſtern Chriſtians, about the Celebration of the Paſſcover, in a manner different from the Jewiſh Cuſtome. 3. Toge<g ref="char:EOLhyphen"/>ther with the Schiſmatical diſſentions of the <hi>Melitians</hi> and <hi>Novatians,</hi> by which they Created perpetual trou<g ref="char:EOLhyphen"/>bles to the Orthodox Biſhops. 5. In this Councell the
+<pb n="13" facs="tcp:36417:8"/>Emperour burnt all the accuſations which the Biſhops brought againſt each other, as unworthy to be ſeen. 6. An illeterate Chriſtian grapling with a proud boaſting Philoſopher, who with his reproaches perſecuted Chriſti<g ref="char:EOLhyphen"/>anity ſtopped his blaſphemous mouth. 7. In which alſo <hi>Paphnutius,</hi> a ſingle man, did confute ſome who were ear<g ref="char:EOLhyphen"/>neſt againſt the Marriage of the Clergy. Conſult about. this with <hi>Gelaſius Cycizenus &amp; Scultet Analyſis. Socrat. Hiſt. Tripartit. l.</hi> 1. <hi>c.</hi> 8. <hi>Ruff. l.</hi> 10. <hi>c.</hi> 1. <hi>Bell. de Conſil. l.</hi> 1. <hi>c.</hi> 5, <hi>&amp;</hi> 13 <hi>Calvin Inſtit. l.</hi> 4. <hi>c.</hi> 7. <hi>S.</hi> 1. <hi>Camerar. Hiſt. de Concil. Nicen.</hi>
+            </p>
+            <p n="5">5. <label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>313</label> The firſt of CONSTANTINOPLE under <hi>Gratian</hi> and <hi>Theodoſius</hi> the great, and <hi>Damaſus.</hi> 1. Conſiſting of 150 Biſhops. 2. It is not manifeſt who ſate in this as chief, unleſſe it was <hi>Cyrillus</hi> of <hi>Hieruſalem.</hi> 3. They con<g ref="char:EOLhyphen"/>demned and diſcharged <hi>Macedonius,</hi> Biſhop of <hi>Conſtantinople,</hi> for his perfidious oppoſing the Deity of the Holy Ghoſt, together with <hi>Maximus Cynicus,</hi> by reaſon of his Doctrine againſt Diſcipline, mentioned <hi>Can.</hi> 6. Of whoſe Canons <hi>Caranza</hi> reckons only 7. <hi>Longus</hi> 9. All which except the firſt concerning the receiving of the <hi>Nicene</hi> Belief, and the baniſhing of the Heretiques are rejected by the Ro<g ref="char:EOLhyphen"/>man Church. 5. The Emperour nul'd all Confeſſions ex<g ref="char:EOLhyphen"/>cept that of thoſe who acknowledge Chriſt Coeſſentiall with the Father, which our preſent Liturgy retains un<g ref="char:EOLhyphen"/>der the name of the <hi>Nicene Creed.</hi> 5. It is thought that <hi>Gregory Nazianzen</hi> compiled it, according to the ſenſe of the Synod. 7. Theſe words <hi>[and the Sonne]</hi> which con<g ref="char:EOLhyphen"/>firms the Holy Ghoſts proceeding from the Father and the Sonne, are known to be added to this Creed by <hi>Be<g ref="char:EOLhyphen"/>nedictus</hi> the <hi>ſeventh,</hi> which <hi>Leo</hi> the <hi>first</hi> and the <hi>third</hi> his <hi>Predeceſſors</hi> dared not to attempt. <hi>Longus ex Lombard</hi> 1. <hi>Sent. D.</hi> 11. <hi>Bonavent. &amp; aliis Theodoret. Hiſt. l.</hi> 5. <hi>c.</hi> 6. <hi>&amp;</hi> 10.
+<label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>434</label>
+            </p>
+            <p n="6">6. The firſt of EPHESUS was fortunately called under <hi>Theodoſius</hi> the younger, promoted by <hi>Celeſtine</hi> the
+<pb n="14" facs="tcp:36417:9"/>
+               <hi>firſt.</hi> 2. In this 200 Biſhops condemned <hi>Nestorius of Conſtantinople</hi> together with <hi>Cariſius</hi> his flattering Presby<g ref="char:EOLhyphen"/>ter, who inſtead of two Natures, acknowledged diverſe Perſons in Chriſt and therefore pleaded that the Bleſſed Virgin ſhould be ſtiled <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> only, and not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 3.
+<note place="margin">The Mother of Chriſt, and not the Mo<g ref="char:EOLhyphen"/>ther of God.</note> In this only <hi>Cyrillus</hi> of <hi>Alexandria</hi> is recorded Preſi<g ref="char:EOLhyphen"/>dent. Whom <hi>Neſtorius,</hi> being piouſly and brotherly invi<g ref="char:EOLhyphen"/>ted to a better opinion, proudly contemned, and having craftily allured <hi>Iohn</hi> of <hi>Antioch</hi> unto his Party Anathe<g ref="char:EOLhyphen"/>matized him and the Councell, who had formerly Anathematized him. 4. The matter being related to the Emperour and throughly underſtood, <hi>Cyrillus</hi> with his, is cleared, and <hi>Neſtorius</hi> with his party is baniſhed to <hi>Oaſis</hi> a ſandy Habitation, where, like another <hi>Cain,</hi> roving here and there, and blaſpheming, at length his tongue being con<g ref="char:EOLhyphen"/>ſumed and eaten up by worms, he breathed out his laſt. 5. There are two copies of this Councel, the firſt obſerving 8. the ſecond 13. Canons, which are comprehended in the Anathema's of <hi>Cyrillus.</hi> 6. They are carpt at by <hi>Theodoret,</hi> but by <hi>Cyrillus</hi> they are freed from objections. 7. The <hi>Maſſilianites,</hi> termed alſo <hi>Euchites</hi> and <hi>Enthuſiaſts</hi> were con<g ref="char:EOLhyphen"/>demned by this Councel, and thereby the integrity of the <hi>Nicene Creed</hi> confirmed. <hi>vid. Liberatum in Breviar. cap.</hi> 11.</p>
+            <p n="7">7. <label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>455</label> That of CALCEDON, in <hi>Bythinia</hi> follows conſiſting of 630. Biſhops, called by <hi>Martianus</hi> the Empe<g ref="char:EOLhyphen"/>rour, who with his Wife <hi>Pulcheria</hi> was preſent at the ſame; againſt <hi>Eutiches</hi> Abbot of <hi>Corſtantinople,</hi> and <hi>Dioſcorus</hi> of <hi>Alexandria</hi> his Champion, and it condemded the ſup<g ref="char:EOLhyphen"/>poſitions acts of the Councel held at <hi>Epheſus.</hi> 2. They affirmed one onely nature to be in Chriſt, after his Incar<g ref="char:EOLhyphen"/>nation, to wit, his divine Nature. 3. Concerning the Preſident of this Councel, excepting the Emperour, and Judges Moderatours, (who are not named) there is no certainty. By favouring parties between <hi>Leo</hi> the firſt of <hi>Rome,</hi> and <hi>Anatholius</hi> Patriarch of <hi>Conſtantinople,</hi> matters were for the moſt part tranſacted. 4. The actions ac<g ref="char:EOLhyphen"/>cording
+<pb n="15" facs="tcp:36417:9"/>to <hi>Caranza,</hi> (which others call Seſſions) are numbred 16. to which are added 29 Canons. 5. Theſe the Romans by no means approved, (for nothing can withſtand their ambition, as if the whole world was created for their ſervice) for they were ratified by the Greeks after the departure of the Embaſſadours of <hi>Leo</hi> of <hi>Paſchaſinus,</hi> a <hi>Lily betan</hi> of <hi>Lucentius</hi> an <hi>Aſculan,</hi> &amp;c. Neither will they bear with that Canon of the equality of priviledges, for the Impe<g ref="char:EOLhyphen"/>rial ſeat is chalenged by the <hi>Conſtantinopolitans</hi> as well as by the Romans, wherefore the Rome <hi>Lyon</hi> roars, and his Whelps gnaſh their teeth, as if the principal ſcope of the Councel, was rather the ſincerity of Supremacy, than of Doctrine. Hence the Romans approve only what pleaſes them, and abrogate what they diſlike, and endea<g ref="char:EOLhyphen"/>vour by their ſubtilities to bring it to paſſe, that all may fall down and adore the Beaſt. 6. They received <hi>Dioſ<g ref="char:EOLhyphen"/>corus</hi> into favour, before juſtly diſcharged, yet almoſt a Saint in the eſteem of the <hi>Africans</hi> and <hi>Abyſſenes.</hi> 7. The recantation of <hi>Theodoret,</hi> Biſhop of <hi>Cyrus,</hi> was approved, (who to favour <hi>Neſtorius,</hi> had oppoſed the Anathema of <hi>Cyrillus</hi> of <hi>Alexandria</hi>) and he reſtored to his place, who afterwards for his Orthodox writings well deſerved of the Church.</p>
+            <p n="8">8. <label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>532</label> The ſecond of CONSTANTINOPLE under <hi>Juſtinian</hi> had 165 Biſhops, <hi>Menes</hi> being Preſident, or ra<g ref="char:EOLhyphen"/>ther his ſucceſſor, <hi>Eutychius,</hi> Patriarch of <hi>Conſtantinople.</hi> But Pope <hi>Vigilius</hi> who came to <hi>Constantinople</hi> to ſummon the Emperour, yet would not be preſent at the Councel, leaſt a ſeeming yeelding to <hi>Eutychius</hi> might be prejudicial to his ſupremacy. 2. The Emperour endeavoured to reconcile the <hi>Eutychians,</hi> and the Orthodox for the pub<g ref="char:EOLhyphen"/>lick trenquillity, and therefore would have revoaked the Articles concerning the condemning of <hi>Theodorus</hi> of <hi>Mop<g ref="char:EOLhyphen"/>ſueſtia,</hi> and of an Epiſtle of <hi>Iba</hi> to <hi>Maris</hi> a <hi>Perſian,</hi> and of <hi>Theodoret</hi> againſt <hi>Cyrillus</hi> that was anathematized. But 3. The Weſtern Chriſtians with Pope <hi>Vigilius</hi> conſtant<g ref="char:EOLhyphen"/>ly oppoſed it, and confirming not onely the decrees
+<pb n="16" facs="tcp:36417:10"/>anathematizing thoſe Heretiques with their Hereſies of the three preceeding Councells, but alſo of <hi>Chalcedon.</hi> 4. The errours of <hi>Origen</hi> alſo expunged, which either de<g ref="char:EOLhyphen"/>nyed the Divinity of Chriſt, or the Reſurrection of the Bodies, or affirmed the reſtitution of <hi>Reprobates</hi> and Divells, (whom the <hi>Socinians</hi> to this day free from Hell.) 5. Alſo <hi>Peter</hi> of <hi>Antioch,</hi> who pleaded for the Crucifix to be added to the hymne of the Trinity, and <hi>Amhimus</hi> of <hi>Conſtantinople,</hi> who, together with the Empreſſe <hi>Theodora</hi> and others, ſtrongly favoured <hi>Eutyches</hi> party, with others, were comprehended under the ſame cenſure. 6. There are extant eight Collations of this Councel, and fourteen Canons or Anathema's. 7. Here we meet with (worth our reading) a monitory Epiſtle of Pope <hi>Felix</hi> to <hi>Peter of Antioch,</hi> and explication of the Doctrine according (as <hi>Carranza</hi> terms it) to the expoſition of <hi>Gregory</hi> of <hi>New-Ceſaria.</hi> Conſult concerning this Synod. <hi>Zonar. in vit. Juſtiniani. Niceph. l.</hi> 17. <hi>c.</hi> 27. <hi>Gregor. l.</hi> 1. <hi>Ep.</hi> 24. <hi>Evag. l.</hi> 4. <hi>d.</hi> 34. <hi>Liberat. in Breviar. c.</hi> 23. <hi>&amp;</hi> 24. who ſhould be read with caution, according to the admonition of <hi>Bellar<g ref="char:EOLhyphen"/>mine de Eccleſ. l.</hi> 1. <hi>c.</hi> 5. becauſe it doth not pleaſe the Roman Palate.</p>
+            <p n="9">9. <label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>680</label> The third called at CONSTANTINOPLE un<g ref="char:EOLhyphen"/>der <hi>Conſtantine Pogonatus,</hi> Pope <hi>Agatho</hi> procuring it by his Legates. 2. In this were convened 150 Biſhops, (they who count 279 or 289 reckon the abſent Romans and others conſenting thereto) here the Emperour him<g ref="char:EOLhyphen"/>ſelf was Preſident, and not the perſon deputed by the Pope. 3. Here were condemned the <hi>Monothelites, Sergius, Cyrus, Pyrrhus, Peter, Paul, Theodorus,</hi> together with Pope <hi>Honorius;</hi> who in the defence of Eutychianiſm pleaded that there was one only will in Chriſt. For the proof of this <hi>Macarius</hi> their chief Champion, brought ſuppo<g ref="char:EOLhyphen"/>ſitious Copies of ſome Books either by diminiſhing from them, or adding to them. And the doting old man <hi>Polychronius</hi> ridiculouſly endeavoured to confirm his Hereſie by rayſing one from the dead. 4. It was finiſhed
+<pb n="17" facs="tcp:36417:10"/>by 18 Actions, in which is delivered a clear narration of the whole proceedings of the Synod, where the Epi<g ref="char:EOLhyphen"/>ſtles of Pope <hi>Agatho</hi> about the third action, and of <hi>Sophro</hi> the Patriarch concerning the eleventh are moſt worthy to be read. 5. The 102 Canons which are commonly charged upon this Councel, were not ratified by it, but were added by the Fathers 227 years afterwards, about the 27<hi rend="sup">th</hi> of <hi>Juſtinian</hi> the ſecond in the <hi>Trullo,</hi> that is, a vaulted Cloyſter of the Emperial Palace, and from thence they were called <hi>Trullians.</hi> Nor were they at all approved by the Romans, becauſe they condemned Pope <hi>Honorius,</hi> and communicated to the Patriarch of <hi>Constantinople</hi> priviledges equal with the Pope. Never<g ref="char:EOLhyphen"/>theleſſe, his Holineſſe the Pope of Rome, with the Em<g ref="char:EOLhyphen"/>perour, and 227 Fathers, ſubſcribed unto them as it is mentioned in the laſt Canon, and others recite out of <hi>Joverius.</hi> 6. Notwithſtanding the latter Papiſts, that they might the better derogate from the credit of all theſe, referred the Canon under the title of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <hi>quiniſext</hi> to a ſupplement of this and the ſixth Synod, which were deſtitute of Canons; therefore the Latines little eſteemed them, becauſe they proceeded from the Greeks after their departure. 7. This Councel confir<g ref="char:EOLhyphen"/>med the Canons, not only of general but alſo of parti<g ref="char:EOLhyphen"/>cular foregoing Synods, as of <hi>Antioch, Laodicea,</hi> and others. Moreover it added what were to be approved in the Or<g ref="char:EOLhyphen"/>thodox writings of the Fathers as is manifeſt in the ſecond Canon of this Councel. <hi>vid. Paul. Diacon. in vit. Conſtant.</hi> 4. <hi>Adon Viennenſ. Bed.</hi> and others with <hi>Joverius</hi> the Champion of this Councel, by whoſe means the univerſall Synod <hi>Claſſ.</hi> 12. <hi>p.</hi> 69. anſwered ſix objections of the contrary party.</p>
+            <p n="10">10. <label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>681</label> The ſecond NICENE Councell under <hi>Con<g ref="char:EOLhyphen"/>stantine</hi> wholly reſtored the Images and Statutes of <hi>Irene,</hi> together with the reliques formerly broken in pieces by <hi>Leo Iſaurus,</hi> his Grandfather, and <hi>Conſtantine Copronymus,</hi> his great-Grand-Father, the buſineſſe being chiefly pro<g ref="char:EOLhyphen"/>moted
+<pb n="18" facs="tcp:36417:11"/>by <hi>Gregory</hi> the ſecond and the third, together with <hi>Adrian</hi> the firſt, and <hi>Taraſius</hi> Patriarch of <hi>Conſtaentinople.</hi> 2. From this Imaginary diſſention, the Popes took occa<g ref="char:EOLhyphen"/>ſion to withdraw the Weſtern Chriſtians from their due and ſworn allegiance to the Grecian Emperours, and to tranſlate the Weſtern Empire from the Greeks to the <hi>Franks.</hi> 3. There met at this Councell 350 Biſhops, who with <hi>Taraſius</hi> the Preſident by ſeven Actions, and 22 Canons condemned Image breakers for Heretiques. Whoſe Arguments <hi>Calvin</hi> repeats, and wiſely anſwers them, <hi>Inſt. l.</hi> 1. <hi>c.</hi> 11. §. 14. But <hi>Germanus</hi> confirms them, together with <hi>John</hi> of <hi>Damaſcus,</hi> whoſe hand being cut off for the defence of Images they report to be reſtored by the Image of the Bleſſed <hi>Virgin:</hi> as alſo the miracles wrought by the bloud of the wounded Crucifix, among the <hi>Berithians,</hi> to the converſion of thoſe who malici<g ref="char:EOLhyphen"/>ouſly wounded it. 4. Peſides the large diſputation annexed to the ſixth action between <hi>Gregory</hi> and <hi>Epipha<g ref="char:EOLhyphen"/>nius</hi> concerning Images and their worſhip, and hear and there by the By ſomething conrerning the Corporeity of Angels, and making unwritten traditions equal with the Scripture, and of adoring and adorning Images, which the latter do not approve. This was worthy com<g ref="char:EOLhyphen"/>mendation, that they conclude the Acts of the ſix pre<g ref="char:EOLhyphen"/>ceeding Councels ſhould be ratified and received. 5. In the mean while they attribute <hi>Latria</hi> to God alone, againſt <hi>Hales, Aquinas, Bonaventure,</hi> and their fol<g ref="char:EOLhyphen"/>lowers, who judge the ſame reſpect to be given to the Image, and the thing which it repreſents, to wit, to the Images of Chriſt <hi>Latria,</hi> of the Bleſſed Virgin <hi>Hy<g ref="char:EOLhyphen"/>perdulia,</hi> of Saints <hi>Dulia.</hi> 6. <hi>Bellarmine</hi> and <hi>Baronius</hi> imagine that this Synod was condemned by the Fathers at the Councel of <hi>Franckofourt,</hi> under <hi>Charles</hi> the Great, but <hi>Binnius, Surius</hi> and others, as it is in <hi>Longus p.</hi> 632. ſtrongly withſtand the ſame. 7. Not long ſince <hi>Albertus Pighius</hi> accounted this Synod with the former as adulte<g ref="char:EOLhyphen"/>rate, whom <hi>Turrianus</hi> the jeſuite endeavours to refute,
+<pb n="19" facs="tcp:36417:11"/>how well let the Readers judge. This diſtick is attributed to this Councel.
+<q>
+                  <l>
+                     <hi>Id Deus eſt quod Imago docet, ſed non Deus ipſe;</hi>
+                  </l>
+                  <l>
+                     <hi>Hanc videas, ſed mente colas, quod cernis in ipsâ.</hi>
+                  </l>
+                  <l>A God the Image repreſents,</l>
+                  <l>But is no God in kind;</l>
+                  <l>That's the eyes object, what it ſhews</l>
+                  <l>The object of the mind.</l>
+               </q> 
+               <hi>Binias</hi> mentions two copies of this, one Greek and Latine, the other Latine, to which you may have recourſe at leaſure.</p>
+            <div type="inquiries">
+               <pb n="20" facs="tcp:36417:12"/>
+               <head>INQUIRIES.</head>
+               <p n="3">3. Whether
+<list>
+                     <item>1. Any thing concerning the firſt <hi>Nicene</hi> Councel, the Preſident convening, the num<g ref="char:EOLhyphen"/>ber of the perſons convened, and of the Canons, the matters tranſacted and deter<g ref="char:EOLhyphen"/>mined in it be certainly known by any un<g ref="char:EOLhyphen"/>corrupt and Authentique edition?</item>
+                     <item>2. The Canons of the firſt Councel held at <hi>Conſtantinople</hi> be deſervedly rejected by the Romans?</item>
+                     <item>3. The <hi>Nicene Creed</hi> was compiled by <hi>Gregory Nazienzen,</hi> and <hi>Benedictus</hi> the ſeventh did well afterwards by publiſhing it with this addition <hi>[and from the Son?]</hi>
+                     </item>
+                     <item>4. The Canons of the Councel held at <hi>Chalce<g ref="char:EOLhyphen"/>don</hi> be rightly diſallowed by the Papiſts?</item>
+                     <item>5. <hi>Origen</hi> deſerved the great anathema from the Councel at <hi>Conſtantinople?</hi>
+                     </item>
+                     <item>6. Pope <hi>Honorius</hi> was juſtly condemned for a Monothelite by the third Councel at <hi>Con<g ref="char:EOLhyphen"/>ſtantinople?</hi>
+                     </item>
+                     <item>7. It is ſufficiently manifeſt that the ſecond <hi>Nicene</hi> Councel was rejected by the Councel held at <hi>Francfourt? Bell. A. Bin. N.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+         </div>
+         <div n="5" type="chapter">
+            <pb n="21" facs="tcp:36417:12"/>
+            <head>CAP. V. Of the <hi>Latine Oecumenical Councels.</hi>
+            </head>
+            <head type="sub">SECT. II.</head>
+            <p n="1">1. THe Latine and Weſtern Councels run parallel with the Greek and Eaſtern.</p>
+            <p n="2">2. Namely
+<list>
+                  <item>1. At ARIMINUM.</item>
+                  <item>2. The LATERANE.</item>
+                  <item>3. At LIONS.</item>
+                  <item>4. At VIENNA.</item>
+                  <item>5. The FLORENTINE.</item>
+                  <item>6. The LATERANE the 5<hi rend="sup">th</hi>.</item>
+                  <item>7. At TRENT.</item>
+               </list>
+            </p>
+            <p n="3">3. ARIMINUM is famous for two Councels,
+<label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>369</label> the firſt Orthodox and lawfully called, and this is here treated of. The other Hereticall and Tyrannicall,
+<note place="margin">
+                  <hi>Vid. Long, p.</hi> 266.</note> craf<g ref="char:EOLhyphen"/>tily called by the <hi>Arians</hi> under the notion of the Councell held at <hi>Arminium,</hi> that this falſe one might extinguiſh the true one. 2. Here were convened 400. Biſhops; who was Preſident is uncertain. <hi>Conſtantius</hi> the Emperour, an <hi>Arian</hi> made an offer to undergo the charges, but the Biſhops rejected it, who regarded more a victory over
+<pb n="22" facs="tcp:36417:13"/>the Heretiques then the Popes maintenance, who at the ſame time called another councel at <hi>Seleucia</hi> in <hi>Izauria,</hi> that by any means they might diſanul the tranſactions at <hi>Ariminum.</hi> 3. But the greater part, and the more wor<g ref="char:EOLhyphen"/>thy of the Fathers of this Synod did determine. 1. The <hi>Nicene</hi> Creed punctually to be obſerved, and the Sonnes Equality with the Father in Eſſence to be aſſerted. 2. The decrees of the Synod at <hi>Sirmium</hi> to be rejected, 3. <hi>
+                  <g ref="char:V">Ʋ</g>rſacius</hi> and <hi>Valence</hi> with the <hi>Arians</hi> their followers to be excom<g ref="char:EOLhyphen"/>municated. 4. Who a little before being accuſed before Pope <hi>Julius,</hi> had renounced Arianiſm, but afterwards returned as Dogges unto their vomit. 5. Thus ejected, they flatter the Emperour too much already, infected with their feigned ſervices, ſo that a Councell being called in <hi>Nica</hi> in <hi>Tracia,</hi> they framed a form of Belief cunningly effected according to their own tenents under the title of the <hi>Nicene Confeſſion,</hi> that by an equivocal term, the leſſe wary might be deceived. 6. Moreover they proceeded ſo far, as to compell the oppoſite Bi<g ref="char:EOLhyphen"/>ſhops to their Oopinion, and to force <hi>Liberius,</hi> Pope of <hi>Rome</hi> to their party, ſo that he ſubſcribed to the con<g ref="char:EOLhyphen"/>demnation of <hi>Athanaſius;</hi> whom how <hi>Bellarmine</hi> would clear, ſee <hi>de Pontif. Rom. l.</hi> 4. <hi>c.</hi> 9.7. Here may be ob<g ref="char:EOLhyphen"/>ſerved the ſophiſtical pretence of the Heretiques, who would remove the word conſubſtantiality from the Creed, as a word to which the Scripture is a ſtranger, and exceeding vulgar capacity, that by ſuch a ſtratagem they might overthrow the <hi>Nicene Creed.</hi> Wherefore 7. They at <hi>Ariminum</hi> diſcharging their Anathemaes againſt the <hi>Arians</hi> confirmed it: Which according to <hi>Longus Bellarmine</hi> obſerved not, ſeeing he allowed only one Synod at <hi>Ariminum,</hi> and that the falſe one: but it appears, otherwiſe in <hi>Athanaſius</hi> of Synods. <hi>Ambroſ. Epiſt.</hi> 32. And <hi>Baronius</hi> himſelf <hi>An.</hi> 359. <hi>N.</hi> 49. and <hi>Sq.</hi> could inform as much.</p>
+            <p n="4">4. <label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>1123</label> The firſt four LATERANE are comprehended under one and the ſame Title as more favouring the
+<pb n="23" facs="tcp:36417:13"/>Popiſh diſſentions than the Doctrine and diſcipline of the Church, the firſt under <hi>Henry</hi> the fifth, and <hi>Calixtus</hi> the ſecond. It had 300 (or according to <hi>Bellarmine</hi> 900) Biſhops, and 22. Canons. 2. <hi>Burdinus</hi> the <hi>Anti-pope</hi> in this was laid aſide. 3. The Veſtures with the Ring and Staff were taken from the Emperour, and given to the Pope. 4. The Pope abſolved the Emperour, and gave him power of electing German Biſhops. 5. There were appointed Croſſes for the Saracen War. That by the means thereof. 6. Pardon of ſinnes might be grant<g ref="char:EOLhyphen"/>ed to them, that undertook that Warre and their Fami<g ref="char:EOLhyphen"/>lies. This is not mentioned in <hi>Joverius</hi> and <hi>Caranza</hi> and <hi>Bellarmine</hi> himſelf confeſſes it is not extant: ſo di<g ref="char:EOLhyphen"/>ligent were the Papiſts in ſearching into the ſecrets of General Councels. The II.
+<label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>1131</label> under <hi>Lotharius</hi> the Em<g ref="char:EOLhyphen"/>perour and <hi>Innocentius</hi> the ſecond increaſed to about 2000 Biſhops. 2. It gave out 30 Canons, lately pub<g ref="char:EOLhyphen"/>liſht by <hi>Gratian</hi> from the <hi>Vatican</hi> Library: which <hi>Bellar<g ref="char:EOLhyphen"/>mine</hi> rejects. 3. It diſcharged <hi>Peter</hi> uſurping the Roman Sea after <hi>Leo,</hi> under the name of <hi>Anacletus</hi> the ſecond. 4. It branded for Heretiques <hi>Peter</hi> of <hi>Bruis,</hi> and <hi>Arnal<g ref="char:EOLhyphen"/>dus</hi> of <hi>Brixia,</hi> the Diſciple of <hi>Peter Abuillard,</hi> rejecting Pedobaptiſme, Church buildings, and the adoration of the Croſſe. 5. It proclaimed thoſe lay Perſons to be Sacrilegious, and incurre the danger of Eternall dam<g ref="char:EOLhyphen"/>nation, who receive Tithes. 6. It forbad tourneaments and Titles, whereby men endangered their lives. And 7. It deprived Uſurers of the Charge of Chriſtian burial, and curſed them to Hell. The III. under <hi>Frederick</hi> the firſt and <hi>Alexander</hi> the third, by a meeting of 300 Biſhops, made up the difference between this <hi>Alexander,</hi> and one <hi>Octavianus,</hi> and his ſucceſſours <hi>Gindon</hi> and <hi>John</hi> a German taking up the quarrel with him; which <hi>diſſentions</hi> divided <hi>Europe</hi> into parties. 2. The <hi>Albigenſes</hi> under the name of <hi>Ca<g ref="char:EOLhyphen"/>thari Publicans,</hi> and <hi>Paterni</hi> taking their riſe from the <hi>Wal<g ref="char:EOLhyphen"/>denſes</hi> were here condemned. 3. Neither did <hi>Lombard</hi> the Maſter of the ſentences here eſcape the ferula, who affir<g ref="char:EOLhyphen"/>med
+<pb n="24" facs="tcp:36417:14"/>that Chriſt according to his Manhood was nothing, but was delivered up to the Biſhop of <hi>Seno</hi> to be chaſti<g ref="char:EOLhyphen"/>ſed. 4. The ordinations made by the Schiſmatiques were wholly abrogated. 5. Private Oratories and Prieſts were appointed for thoſe which had the Leproſie. 6. The manner of viſitation is preſcribed for the meeting of Arch-Biſhops, Biſhops and Deacons, are not to exerciſe Epiſcopal Juriſdiction. 7.27 Canons are ſuppoſed to be made by this Councel no where diſtinctly to be had, yet they are collected and commended by <hi>Math. Pariſienſis.</hi> The IV under <hi>Frederick</hi> the ſecond, and <hi>Innocentius</hi> the third, with 400 Biſhops, and 80 other Fa<g ref="char:EOLhyphen"/>thers, yea ſaith <hi>Bellarmine</hi> with 1283 Fathers, whereof 673 were Biſhops attempted greater matters. 2. It reje<g ref="char:EOLhyphen"/>cted the book of <hi>Joachimus</hi> the Abbot againſt <hi>P. Lombard;</hi> it condemned 20 Follies of <hi>Almaricus,</hi> eſpecially his de<g ref="char:EOLhyphen"/>nial of Tranſubſtantiation. 3. It eſtabliſhed Tranſub<g ref="char:EOLhyphen"/>ſtantiation, a Popiſh abſolution of ſubjects from the bond of alleigeance towards ſuperiours, and auricular Confeſſion. 4. It exacted an Oath from ſecular Magi<g ref="char:EOLhyphen"/>ſtrates to expell Heretiques, nominated by the Pope. 5. It encouraged with indulgences, and promiſes thoſe that went with Croſſes for the recovering of the Holy Land under <hi>Godfry</hi> of <hi>Bulloigne.</hi> 6. It denyed plurallity of Be<g ref="char:EOLhyphen"/>nefices, and ſale of Reliques. 7. There are extant of this 69 or 70 Chapters briefly contracted by <hi>Longus,</hi> who ſends the Reader to larger Volumes.</p>
+            <p n="5">5. <label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>1244</label> The two Councells at LIONS follows. The firſt called by <hi>Frederick</hi> the ſecond, and <hi>Innocentius</hi> the fourth. 2. In this the magnanimous and pious Empe<g ref="char:EOLhyphen"/>rour well deſerved of the Chriſtian Church againſt the Infidels, and after the fourth excommunication at leaſt was depoſed by the Pope from his own power and au<g ref="char:EOLhyphen"/>thority, and a prohibition made, that not any ſhould name him Emperour. 3. Being depoſed, heroically he defends his right with his <hi>Gibilines</hi> againſt the <hi>Guelphes</hi> of the Popiſh partie. 4. Here was expected no Preſident
+<pb n="25" facs="tcp:36417:14"/>but the Pope, who under a pretence of recovering the Holy Land, drew 140 Biſhops and Abbots to his ſide, that by the fifths of the Church rights they might redeem the Eaſt, whilſt the Weſt rather needed a freedom from the Popiſh Tyranny. 5. Where the Scarlet Hat is deſigned for the Cardinals, and among ſo many bloudy cruelties by this An<g ref="char:EOLhyphen"/>tichriſtian impiety, prevailing for above the ſpace of 200 years, new feaſts are inſtituted for the cannonizing of Popiſh Saints. 6. The <hi>Dominicans, Franciſcans, Carmelites,</hi> and <hi>Auguſtinians,</hi> eſpecially encouraged by the Pope, do not weaken, but rather enlarge and widen the difference. 7. The ſeventeen inſtitutions which are attributed to this Councel, are rather Political and Polemical, than Eccleſiaſtical; and according to <hi>Bellarmines</hi> direction, are to be found in the ſixth of the Decretals. The acts are mentioned by <hi>Abbas Stadi<g ref="char:EOLhyphen"/>enſis,</hi> and <hi>Thrimerius</hi> in his Chronicles, <hi>Palmerius, Platina, Onuphrius,</hi> and others. II.
+<label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>1272</label> This Councel was celebrated under <hi>Rodolphus</hi> the firſt at <hi>Haſpurg,</hi> procured by <hi>Gregory</hi> the tenth, famous for at leaſt 700 Biſhops. 2. Here was preſent <hi>Michael Paleologus</hi> to the Greek Emperour; who compelled by neceſſity, brought in his Greeks to ſubſcribe the thirteenth time with the Latines to the proceſſion of the Holy Ghoſt from the Father and the Son; of which returning to their home, after their manner, they recanted; ſo little availed a forced aſſent in ſacred matters. 3. <hi>Aquinas</hi> ſent for to this Councel, dies in the way, and <hi>Bonaventure,</hi> their created <hi>Cardinal,</hi> having ſpent his utmoſt endeavours againſt the Greeks, breathed his laſt. 4. The Pope for a Subſidie in behalf of the Holy Land, requires the tenth of all Eccleſiaſti<g ref="char:EOLhyphen"/>cal Rights, for the ſpace of ſix years, which carefully col<g ref="char:EOLhyphen"/>lected, were not an hairs profit to the Eaſtern Chriſtians un<g ref="char:EOLhyphen"/>der oppreſſion. 4. Here was ordered the bowing at the name of Jeſus. 6. Of this there are 31 Conſtitutions, which may rather be ſtiled the Popes pleaſure, than the Councels Deter<g ref="char:EOLhyphen"/>minations. 7. They are omitted by the Summuliſts, and are to be found in the ſixth of the Decretals.</p>
+            <p n="6">6. <label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>1311</label> The Councel held at VIENNA under <hi>Henry</hi> the
+<pb n="26" facs="tcp:36417:15"/>ſeventh, noted for 300 Biſhops and upwards. In this 1. <hi>Bo<g ref="char:EOLhyphen"/>niface</hi> the eighth, perſwading <hi>Philip</hi> the fair to blot him out of the Tables, is freed from calumnies caſt upon him. 2. The <hi>Hieruſalem</hi> expedition is more ſtrongly urged, the <hi>Templars</hi> being removed out of the way for the murthering of the <hi>Abiſſins</hi> Embaſſadour,
+<note place="margin">
+                  <hi>Intenin. Hiſt. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 3. <hi>Tit.</hi> 11. <hi>c.</hi> 3.</note> and other impieties and Hereſis. <hi>Tri<g ref="char:EOLhyphen"/>themius</hi> hits the mark, the <hi>Templars</hi> were very rich, a ſuffici<g ref="char:EOLhyphen"/>ent pretence for Hereſie and their expulſion. 3. The Clergy are permitted to take an Oath of Allegiance, not of ſubjecti<g ref="char:EOLhyphen"/>on to Lay Magiſtrates, <hi>Peter John,</hi> the <hi>Dulcimiſts,</hi> the <hi>Fraticelli,</hi> the <hi>Begwards,</hi> and <hi>Begwins,</hi> together with the <hi>Lolards,</hi> are condemned. <hi>Peter John,</hi> for that he denied the ſoul to be the form of man, harſh dealing, that this ſhould be accounted Hereſie; the others alſo (though by no means to be born) had Fictions laid to their charge.
+<note place="margin">
+                  <hi>Pag.</hi> 851.</note> 6. In the ſentence of <hi>Clement</hi> againſt the <hi>Templars,</hi> mentioned by <hi>Longus,</hi> the <hi>Pope</hi> challen<g ref="char:EOLhyphen"/>ges not to himſelf the power and right of Defining, but the way of providing or Ordaining, that none for the future ſhould enter into that Order, unleſſe they yielded the goods of the ejected <hi>Templars</hi> up to the diſpoſal of the Apoſtolical See. 6. The Conſtitutions of this Councel under the name of <hi>Clementine,</hi> are extant in 5. Books for a Supplement to the Canon Law. 7. In which is that famous decree of conſtitu<g ref="char:EOLhyphen"/>ting <hi>Profeſsors</hi> to be maintained by a competent Stipend at the Court of <hi>Rome,</hi> at the Uniuerſities of <hi>Paris, Oxford, Bononia,</hi> and <hi>Salamanca,</hi> for the inſtructing in the <hi>Hebrew, Arabick,</hi> and <hi>Caldie</hi> Languages, that by that means the <hi>Jews</hi> and <hi>Mahumetans</hi> might the more eaſily be converted to the Faith. <hi>Clement. l.</hi> 5. <hi>Tit.</hi> 1. <hi>Gag. l.</hi> 7.</p>
+            <p n="7">7. <label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>1431</label> The FLORENTINE Councel was begun at <hi>Ferraria,</hi> under <hi>Albertus</hi> Emperour, and <hi>Eugenius</hi> the fourth; but by reaſon of the raging peſtilence, was tranſlated to <hi>Florence,</hi> and there ended. 2. There were convened in this 141 Bi<g ref="char:EOLhyphen"/>ſhops, the Pope himſelf preſident, who depoſed the Councel of <hi>Baſil</hi> at the ſame time by the <hi>Germans,</hi> by this notable and very ſubtile diverſion, was freed from thoſe rigid cen<g ref="char:EOLhyphen"/>ſurers. 3. There were preſent at this Councel <hi>John Paleo<g ref="char:EOLhyphen"/>logus,</hi>
+               <pb n="27" facs="tcp:36417:15"/>with the Patriarch <hi>Joſeph,</hi> and the Greek Doctors. 4. In it were debated Articles concerning 1. The Holy Ghoſt's proceeding. 2. The addition to the <hi>Nicene Greed</hi> [and from the Son.] 3. Purgatory. 4. The power of ſuffrages and Sacri<g ref="char:EOLhyphen"/>fice for the dead. 5. Tranſubſtantiation. 6. The adminiſtring unleavened bread in the Euchariſt. 7. But eſpecially concern<g ref="char:EOLhyphen"/>ing the Popes ſupremacy, to all which the Greeks are ſaid to have conſented with the Latines, howſoever returned home they quickly fell off. 4. Such was the Popiſh piety and pru<g ref="char:EOLhyphen"/>dence, that the Emperour himſelf with his, muſt in their ſeals give place to his Holineſſe and the Cardinalis. 5. <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi> the Patriarch, no diſeaſe foregoing, ſuddenly after ſub<g ref="char:EOLhyphen"/>ſcription expired, yet a ſcrole is found in his hands, which teſtifyed a full conſent to the Latines. 6. This Councel had twenty five Seſſions, ſixteen at <hi>Ferraria,</hi> the other nine at <hi>Florence,</hi> in which they eaſily overcame the Greeks, it had been wiſht that ſincerity had more, and covetouſneſſe, pride, and lofty ambition had leſſe prevailed. 7. The inſtitution of the <hi>Armenians,</hi> which is added to this Councel at <hi>Caranza</hi> and <hi>Longus,</hi> is omitted by others, and it was only a Popiſh fiction after the Councel was ended, as appears by conferring times.</p>
+            <p n="8">8. <label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>1512</label> The fifth LATERANE Councel may well be ſup<g ref="char:EOLhyphen"/>poſed to be called for the diſannulling another at <hi>Piſa,</hi>
+               <note place="margin">Begun under <hi>Julius</hi> the 2. E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ded under <hi>Leo</hi> the 10. 1515.</note> were ſome Cardinals met againſt the perjured Pope. 1. There were convened in it 114 Biſhops, under <hi>Maximillian</hi> the firſt Em<g ref="char:EOLhyphen"/>perour, and Pope <hi>Julius</hi> the ſecond Preſident. 2. It had 12 Seſſions, five of which were under <hi>Julius,</hi> the other ſeven were finiſht by <hi>Leo</hi> the tenth, after his death exalted to the Popes Chaire. 3. To the ninth Seſſion are ſo many Canons annexed for the reformation (as is pretended) of the Court of Rome, but they were to little purpoſe, nor were they more valued then the cenſurers of the whole Councel, which <hi>Suarez Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etan,</hi> and <hi>Navarius</hi> profeſſe to be rejected. 4. The pragmatical decree, made at the Councel of <hi>Baſil</hi> in defence of Eccleſiaſtical liberty againſt Popiſh uſurpings, is here diſcuſſed and exploded. 5. Mountains of Piety are here
+<pb n="28" facs="tcp:36417:16"/>alſo commodiouſly raiſed, from whence as from a publique Treaſurie, the poor indigent artificers and Virgins, other<g ref="char:EOLhyphen"/>wiſe without dowry, might ſeek for ſuccour. 6. The im<g ref="char:EOLhyphen"/>mortality of the ſoul is moreover defended, concerning which many at that time doubted, others wantonly diſputed it, or diviliſhly denied it. Wherefore the chief in the Uni<g ref="char:EOLhyphen"/>verſities are enjoyned to confirm the Orthodox doctrine about theſe Articles, eſpecially againſt the prevailing A<g ref="char:EOLhyphen"/>theiſms of ſome weak Philoſophers. 7. Nor is liberty per<g ref="char:EOLhyphen"/>mitted to thoſe that preach to wreſt the Scripture at plea<g ref="char:EOLhyphen"/>ſure for the ſpreading of ſtrange opinions, but they muſt keep themſelves (as much as may be) within the bounds pre<g ref="char:EOLhyphen"/>fixt by their Anceſtours. By which means ſomething is added concerning the impreſſion of Books, leaſt any one, without the approbation of Learned men, ſhould impoſe upon the world what they liſt.</p>
+            <p n="9">9. The Councel of TRENT under <hi>Charles</hi> the fifth and <hi>Ferdinand</hi> the tenth. <hi>Faul</hi> the third, <hi>Julius</hi> the third, and <hi>Pius</hi> the fourth, did make great ſtir for 18 years toge<g ref="char:EOLhyphen"/>ther. 2. After many turnings concerning 1. The Scripture. 2. Original ſin. 3. Juſtification. 4. The Sacraments in Ge<g ref="char:EOLhyphen"/>neral. 5. Baptiſm. 6. The removing of the Councel. 7. When ſome decrees of Reformation were interpoſed in 10 Seſſions, as it ſeemed good, the Fathers aſſented, thunderings of Anathemaes being added. 3. <hi>Julius</hi> the third reduced the whole pack from the Haven of <hi>Bononia</hi> to the Channel of. <hi>Trent.</hi> Where concerning. 1. The Euchariſt. 2. Repentance And 3. Extream Unction, ſome grains of Reformation being caſt in by the ſame method in other Seſſions the matter is ended. 4. <hi>Pius</hi> the fourth (theſe two Champions being re<g ref="char:EOLhyphen"/>moved out of the way) at length enters the Scene, and con<g ref="char:EOLhyphen"/>cerning 1. Communion of Lay Perſons under one kind. 2. The Sacrifice of Maſſe. 3. The Sacrament of order. 4. Matri<g ref="char:EOLhyphen"/>mony. 5. Purgatory, Worſhiping of Reliques, Invocation of Saints, and of images. 6. Indulgencies, the Choyce of meats, Faſtings, and Feaſtings. 7. Of an Index of books, abreviaries and a Miſſal, in the laſt 9 Seſſions he brings it to
+<pb n="29" facs="tcp:36417:16"/>the expected end. 5. In theſe 25 Seſſions the Popes by their deputies were Preſidents. Here are granted ſafe convoyes to three Proteſtants, that they might have a free and ſafe ad<g ref="char:EOLhyphen"/>dreſſe to the Councel, to propound the reaſons of their diſſent, but with this craft, to be inſtructed by them as Dictators and Maſters, not to obtain the reformation of any thing. 6. Secular Princes expect and preſſe by their Ora<g ref="char:EOLhyphen"/>tours communion under both kinds, at length they tranſmit it to the Popes Judgment, to whom alſo is referred the purg<g ref="char:EOLhyphen"/>ing of the vulgar Edition, the Catechiſm, Breviarie, and Miſſal, and other traſh, as it ſeems good to this infallibility: In the mean while 21 abuſes obſerved by the ſworn Dele<g ref="char:EOLhyphen"/>gates of <hi>Paul</hi> the third, and reſated to the Pope are ſlightly paſt by, and corrected with ſilence. 7. This Councel, cried up by ſo many Acclamations, and ſo ſolemnly confirmed by the <hi>ſeal</hi> of the <hi>Fiſher,</hi> the <hi>French</hi> admitted not, nor did the more learned Papiſts much value it. Some did reject it as <hi>Kemnitius, Gentiletus,</hi> and <hi>Calvin</hi> ſome part. <hi>P. Suavius Venetus</hi> publiſht the ſtory thereof; its ſubtleties a <hi>French<g ref="char:EOLhyphen"/>man</hi> diſcovered, rendred in Engliſh by <hi>D. L.</hi> Speeches made therein are extant in one volume, by which it may appear, that not for the compoſing of differences, but for the impoſing on Chriſtians, ſo many learned Papiſts were hired and ſeduced in this laſt Oecumenical Councel, ſo much approved by them.</p>
+            <div type="inquiries">
+               <pb n="30" facs="tcp:36417:17"/>
+               <head>INQUIRIES.</head>
+               <p>Whether
+<list>
+                     <item>1. The firſt Councel held at <hi>Arminum,</hi> may worthily be accounted an Oecumenical ap<g ref="char:EOLhyphen"/>proved Councel? <hi>Aff. Long. Sum. Conſil.</hi> p. 266.</item>
+                     <item>2. The Decrees of the fourth <hi>Laterane Councel,</hi> which are extant, be of doubtful credit? <hi>Aff. Widrington Rejoynder, p.</hi> 368.</item>
+                     <item>3. The <hi>Greeks</hi> in the ſecond Councel held at <hi>Lions,</hi> as afterwards in the <hi>Florentine</hi> Coun<g ref="char:EOLhyphen"/>cel, did by force rather then freely and ac<g ref="char:EOLhyphen"/>cording to their opinion, ſubſcribe to the Latine Decrees?</item>
+                     <item>4. The <hi>Clementine Conſtitutions</hi> of the Councel held at <hi>Vienna</hi> may undoubtedly be accoun<g ref="char:EOLhyphen"/>ted Canon Law?</item>
+                     <item>5. The inſtruction of the <hi>Armenians</hi> is to be reckoned among the acts of the <hi>Florentine Councel?</hi>
+                     </item>
+                     <item>6. The pragmatical Decree was Lawfully abro<g ref="char:EOLhyphen"/>gated by the 5th <hi>Laterane Councel?</hi>
+                     </item>
+                     <item>7. The <hi>Councel</hi> of <hi>Trent</hi> be a ſacred deluſion of <hi>Chriſtianity</hi> and Chriſtian Princes?</item>
+                  </list>
+               </p>
+            </div>
+         </div>
+         <div n="6" type="chapter">
+            <pb n="31" facs="tcp:36417:17"/>
+            <head>CHAP. VI. Of <hi>Controverted Councels.</hi>
+            </head>
+            <p n="1">1. COntroverted Councels are ſuch as <hi>Bellarmine</hi> hath digeſted in a peculiar claſſis partly appro<g ref="char:EOLhyphen"/>ved, partly rejected. If this diſtinction may be admitted among books, why may not the <hi>Turks Alcaron</hi> find admittance under the ſame title among <hi>Chriſtian Ca<g ref="char:EOLhyphen"/>lenders?</hi> Hence truely it is manifeſt, that a Councel is no<g ref="char:EOLhyphen"/>thing elſe but a device of the <hi>Pope,</hi> whereby he admits and rejects what pleaſes him: which he makes uſe of, not for the Churches benefit, but under the colour and pre<g ref="char:EOLhyphen"/>tence of Religion, for the eſtabliſhing of the <hi>Roman See:</hi> In the mean while we may ſee how the foot-ſteps of the Prieſts may be traced.</p>
+            <p n="2">2. Therefore theſe are rec<g ref="char:EOLhyphen"/>koned for Controverted Councels
+<list>
+                  <item>1. At CONS TANTINOPLE the 4<hi rend="sup">th.</hi>
+                  </item>
+                  <item>2.
+<note place="margin">
+                        <hi>Bell. de Ec<g ref="char:EOLhyphen"/>cleſia. l.</hi> 1. <hi>c.</hi> 7.</note> At SARDIS</item>
+                  <item>3. At SYRMINA</item>
+                  <item>4. At QUINISEXT</item>
+                  <item>5. At FRANCOFURT</item>
+                  <item>6. At CONSTANCE</item>
+                  <item>7. At BASIL.</item>
+               </list>
+            </p>
+            <p n="3">3. <label type="milestone">
+                  <seg type="milestoneunit">An.D. </seg>870</label> At CONSTANTINOPLE the fourth under <hi>Baſilius</hi> the murtherer of Greek Emperours, and <hi>Adrian</hi> the ſecond uſurping the Roman See, notwithſtanding the
+<pb n="32" facs="tcp:36417:18"/>oppoſition of the Roman Emperour. It conſiſted of 102 Biſhops. 2. The chief buſineſſe of this was to diſ<g ref="char:EOLhyphen"/>charge <hi>Photius</hi> the moſt learned Patriarch of the Greeks (who left to poſterity a book concerning folly) becauſe he had touched the Popiſh Tyranny with his ſharp writings, and was an enemy to Images, and without the canonical aſſent had poſſeſſed the Chair due to <hi>Ignatius</hi> who was more plia<g ref="char:EOLhyphen"/>ble to the Roman Commands; whatſoever the matter was, he is <hi>cited,</hi> contumilies are caſt upon him, he is eje<g ref="char:EOLhyphen"/>cted, and by an injunction of Repentance, all his councellors and followers are ſufficiently puniſhed accord<g ref="char:EOLhyphen"/>ing to the Romane Embaſſadors pleaſure. 3. To 9. Acti<g ref="char:EOLhyphen"/>ons in which theſe things were tranſacted there are added 27 <hi>Canons,</hi> in which beſides the fooliſh rage againſt the <hi>Photians</hi> and the honour beſtowed on Images, that is to be commended of the ſixth Canon, which forbids Prieſtly veſtments to be uſed in ſcenical playes though for ſports ſake. 4. The <hi>Bulgarians</hi> newly converted to the Faith enquire at this <hi>Councel</hi> whether they ſhould addreſſe them<g ref="char:EOLhyphen"/>ſelves to the Greek or the Romane Church, but concern<g ref="char:EOLhyphen"/>ing what is to be done, the Romans ſparingly declare their mind, not ſilently paſſing over the <hi>encreaſe</hi> of the <hi>Ro<g ref="char:EOLhyphen"/>man greatneſſe.</hi> 5. This is manifeſt that the <hi>Embaſſadors</hi> relying upon the protection of <hi>Adrian</hi> the uſurping Empe<g ref="char:EOLhyphen"/>rour, did ſo ſuperciliouſly behave themſelves towards <hi>Pho<g ref="char:EOLhyphen"/>tius</hi> and the Greek Biſhops, that returning home to their Lord they were aſſaulted by the <hi>Sclavonians,</hi> who depri<g ref="char:EOLhyphen"/>ved them of all their goods, and took from them the au<g ref="char:EOLhyphen"/>thentical copy of the Councel which contained the hand<g ref="char:EOLhyphen"/>writing of the Emperour and all thoſe that conſented, for the reliques of this which. 6. Remain, we are beholding to <hi>Anaſtatius</hi> the Library keeper, who was preſent at the tranſactions and Decrees, and what he ſaw he noted and tranſmitted to Poſterity. For the clearing of which <hi>Andr. Schottus</hi> the Jeſuite in <hi>Praef. Bibl. Photii.</hi> hath contributed much light. 7. Nevertheleſſe the Greeks reject this Sy<g ref="char:EOLhyphen"/>nod, moreover according to <hi>Bellarmine,</hi> all things are here
+<pb n="33" facs="tcp:36417:18"/>laid down, as ſuppoſitions and uncertain, ſince there are thoſe who <hi>affirm</hi> the ſame <hi>Photius,</hi> who as we read was depoſed by this <hi>Adrian,</hi> to have been reſtored by <hi>John</hi> the eight, that is Pope <hi>Joan</hi> his ſucceſſour, whence it ap<g ref="char:EOLhyphen"/>pears, that neither the Greeks agree with the Romans, nor the Romans among themſelves about the acts and authority of this Synod.</p>
+            <p n="4">4. <label type="milestone">
+                  <seg type="milestoneunit">An.D. </seg>351</label> That of SARDIS is ſaid to have been celebrated under <hi>Conſtantius</hi> and Pope <hi>Julius.</hi> 2. In it are numbred 376 Biſhops, of which the 300 Weſtern confirmed the <hi>Nicene Creed,</hi> to this end, that <hi>Athanaſius,</hi> who was ba<g ref="char:EOLhyphen"/>niſhed <hi>Rome</hi> for the ſpace of three years, ſhould be reſto<g ref="char:EOLhyphen"/>red to his place at <hi>Alexandria,</hi> but the other 76 <hi>Arians</hi> meeting at <hi>Philippolis</hi> confirmed <hi>Arianiſme</hi> under the title of the Councel of <hi>Sardis.</hi> 3. No Preſident is here men<g ref="char:EOLhyphen"/>tioned but <hi>Hoſius</hi> of <hi>Corduba,</hi> who without the Popes Em<g ref="char:EOLhyphen"/>baſſadours with <hi>Gaudentius</hi> and other Godly Biſhops ratified 21 Canons. 4. It is commonly called an appendix to the firſt <hi>Nicene Councel.</hi> In whoſe Canons not a word of the Popes ſupremacy or of appeals to him from remote Churches (as <hi>Longus</hi> would have it out of Prolix <hi>Baronius</hi>) 5 <hi>Augu<g ref="char:EOLhyphen"/>ſtine</hi> and thoſe who are deceived by the equivocation, do not reject this Councel, but that held under the name of this at <hi>Philippolis</hi> by the <hi>Arians.</hi> 6. It is reported there was one Orthodox <hi>Arius</hi> preſent at this Councel, convert<g ref="char:EOLhyphen"/>ed (as ſuppoſed) by <hi>Athanaſius</hi> at <hi>Laodicea.</hi> 7. <hi>Binius</hi> largely deſcribes the Hiſtory of this Synod out of <hi>Socrates, Sozomen,</hi> and the <hi>Tripartite</hi> Hiſtory, in which thoſe three Canons the 3, 4, and 5, which approve of appeals to the Pope of <hi>Rome,</hi> do not determine them as neceſſary but as Arbitrary, neither do they oblige the Biſhops Univerſally, but only the ſubjects of that Patriarchſhip.</p>
+            <p n="5">5. <label type="milestone">
+                  <seg type="milestoneunit">An.D. </seg>356</label> That at SYRMINA or <hi>Syrmia</hi> ſo trembled and groaned under the <hi>Arian tyranny</hi> of <hi>Conſtantius,</hi> that the ſu<g ref="char:EOLhyphen"/>premacy and Preſidentſhip of Pope <hi>Liberius</hi> dared not to ap<g ref="char:EOLhyphen"/>pear. 2. There were preſent beſides <hi>Eaſtern</hi> 300 <hi>Weſtern Biſhops</hi> and upwards for the hearing and deciding the cauſe
+<pb n="34" facs="tcp:36417:19"/>of <hi>Photinus,</hi> who complained to the Emperour that he was unjuſtly condemned at the Synod of <hi>Sardis.</hi> What had he committed? Namely he preached that Chriſt was only meer man, and inferiour to his Mother, which is the o<g ref="char:EOLhyphen"/>pinion of the <hi>Socinians.</hi> 3. <hi>Marcus Arethuſius</hi> compoſed a confeſſion in Greek againſt this weak Hereſie ſo ſubtily, that <hi>Hilary</hi> and <hi>Liberius</hi> doubted not but to approve there<g ref="char:EOLhyphen"/>of, becauſe he declared not in words the Herefie he en<g ref="char:EOLhyphen"/>tertained in his hearr; perhaps he conſpired with <hi>
+                  <g ref="char:V">Ʋ</g>rſa<g ref="char:EOLhyphen"/>cius</hi> and <hi>Valence,</hi> who effected another in Latine, not on<g ref="char:EOLhyphen"/>ly deficient in the word <hi>Conſubſtantiality,</hi> but altogether oppoſing it. 4. It is miſerable here to read, how <hi>Hoſius</hi> well near an hundred years old was compelled by whip<g ref="char:EOLhyphen"/>ping, after ſo many triumphs over the enimies of the <hi>Ho<g ref="char:EOLhyphen"/>mouſians,</hi> to ſubſcribe to <hi>Arianiſme,</hi> yet he would not con<g ref="char:EOLhyphen"/>demn <hi>Athanaſius,</hi> and before his death he cleared himſelf from his relaps by a moſt devout Recantation. 5. The popiſh infallibility freed not <hi>Liberius</hi> from the ſame errour, although <hi>Bellarmine</hi> doth wittily excuſe him.
+<note place="margin">
+                  <hi>De Rom. Pon<g ref="char:EOLhyphen"/>tif. l.</hi> 4. <hi>c.</hi> 9.</note> 6. Of this Councel (ſaith <hi>Longus</hi>) there is nothing extant be<g ref="char:EOLhyphen"/>ſides three Forms of <hi>Belief,</hi> which are found in <hi>Binius,</hi> but he tells us there are extant 26 Anathemtes, which toge<g ref="char:EOLhyphen"/>ther with the Orthodox Confeſſion <hi>Caranza</hi> hath publiſhed, of which <hi>Longus</hi> could not be ignorant. 7. This Synod is more largely handled by <hi>Socrates l.</hi> 1. <hi>c.</hi> 24. <hi>&amp; Sq. Sozomen. l.</hi> 4. <hi>c.</hi> 5, <hi>&amp;</hi> 6. <hi>Epiph. Haereſ.</hi> 7.</p>
+            <p n="6">6. <label type="milestone">
+                  <seg type="milestoneunit">A.n.D </seg>692</label> The Councel of QUINISEXT (ſo tearmed by <hi>Balſamon</hi>) is counted by <hi>Bede</hi> and very many Latines an erroneous Synod. 2. The Fathers who were convened in it under <hi>Juſtinian</hi> the ſecond and Pope <hi>Sergius,</hi> becauſe the fifth and ſixt preceding Synods commanded no<g ref="char:EOLhyphen"/>thing concerning manners and Eccleſiaſtical diſcipline, thought it very fit that that defect ſhould be ſupplied. And therefore they ratified 102 Canons in the <hi>Trullo</hi> of the Imperial palace, which from thence are called <hi>Trul<g ref="char:EOLhyphen"/>lans.</hi> 3. The I atines reject theſe, who are diſpleaſed that without their knowledge and conſent, but eſpecially
+<pb n="35" facs="tcp:36417:19"/>without full power and authority from the Pope, they ſhould be publiſhed. But that troubles them moſt, that in the 36 Canon, the Patriarch of <hi>Constantinople</hi> is equal<g ref="char:EOLhyphen"/>led to the Roman, and in the 13 Canon <hi>Matrimony</hi> is granted to the Clergie, and other things which reliſh not with the Roman palate. 4. In the mean while it is mani<g ref="char:EOLhyphen"/>feſt, that <hi>Gregory</hi> the ſecond and <hi>Adrian,</hi> with the ſe<g ref="char:EOLhyphen"/>cond <hi>Nicene</hi> Synod did make uſe of the <hi>Trullan</hi> Canon a<g ref="char:EOLhyphen"/>gainſt Image-breakers; and moreover, <hi>Gratian</hi> reports that this Synod was received by thoſe of <hi>Nicene diſt.</hi> 16. <hi>c.</hi> 5. but they ſay <hi>Gratian</hi> was miſtaken, and that he cited others, not to prove it Authentical in it ſelf, but that it was ſo eſteemed by the adverſaries. 5. <hi>Bellarmine</hi> by 5 <hi>Arguments</hi> contends, that theſe <hi>Trullan</hi> Canons are of no force. <hi>de Pont. Rom. l.</hi> 2. <hi>c.</hi> 18. becauſe they are of no general Councel, and without the authority of the Pope; and particular Sy<g ref="char:EOLhyphen"/>nods do not oblige univerſally thoſe that are abſent as pre<g ref="char:EOLhyphen"/>ſent. It is not to be expected therefore that the Prote<g ref="char:EOLhyphen"/>ſtands ſhould be obliged to the <hi>Tridentine</hi> decrees. 6.
+<note place="margin">p. 989.</note> 
+               <hi>Lon<g ref="char:EOLhyphen"/>gus</hi> addes out of <hi>Anaſtaſius</hi> the Library keeper, that nei<g ref="char:EOLhyphen"/>ther they were received by the other Patriarchs, but ac<g ref="char:EOLhyphen"/>counted as unworthy to be tranſcribed and laid up in the <hi>Archives,</hi> it is a wonder therefore by whoſe means they came to us; wherefore they are rather to be eſteemed as Canons from their agreements with the Scriptures, than otherwiſe to be judged by negligent cenſurers. 7. But how Orthodox theſe <hi>Trullan Fathers,</hi> and their Canons were, appears by the ſecond Canon in which they de<g ref="char:EOLhyphen"/>clare a manifeſt agreement with the preceding Synods and Fathers, with whom there can be no juſt occaſion to contend.</p>
+            <p n="7">7. <label type="milestone">
+                  <seg type="milestoneunit">An.D. </seg>794</label> Concerning the Councel of FRANCOFURT Au<g ref="char:EOLhyphen"/>thors agree not whether it may be accounted <hi>Oecumeni<g ref="char:EOLhyphen"/>cal</hi> or <hi>Provincial,</hi> the latter writers will have it <hi>Provin<g ref="char:EOLhyphen"/>cial</hi> becauſe it ſeems to be an enemie to Images. The more Ancient acknowledge it to be <hi>Oecumenical,</hi> becauſe it was called by <hi>Charles the Great,</hi> and <hi>Adrian</hi> the firſt, and
+<pb n="36" facs="tcp:36417:20"/>at leaſt 300 Biſhops. 2. The reaſon of its call was, be<g ref="char:EOLhyphen"/>cauſe <hi>Elipardus</hi> Arch-Biſhop of <hi>Toledo</hi> and <hi>Felix <g ref="char:V">Ʋ</g>rgeli<g ref="char:EOLhyphen"/>tanus</hi> Biſhop of <hi>Aurelia</hi> preached that Chriſt was only the Adopted Sonne of God. Which <hi>Aquinas</hi> refutes, 3. <hi>part q.</hi> 23. <hi>art.</hi> 4. 3. This Hereſie was chiefly oppoſed by <hi>Paulinus</hi> in a Sacred Collection read before the Empe<g ref="char:EOLhyphen"/>rour and approved by the Fathers. 4. But <hi>Binius</hi> with <hi>Longus</hi> and others Contend, that this Synod confirmed the opinion of the ſecond <hi>Nicene Councel</hi> concerning the a<g ref="char:EOLhyphen"/>doration of Images, which opinion (ſaith <hi>Bellarmine</hi>) I could wiſh to be true, but I ſuſpect to be falſe, with whom agrees <hi>Baronius</hi>) whence he concludes that whatſoever this Councel determined is not much to be valued; becauſe without doubt the ſecond <hi>Nicene Councel</hi> is to be prefer<g ref="char:EOLhyphen"/>red before it. 5. There are extant concerning the tranſa<g ref="char:EOLhyphen"/>ctions of this Synod, ſome bookes of <hi>Charles</hi> which as <hi>Bellarmine</hi> affirms are ſtuffed with many falſities. Where<g ref="char:EOLhyphen"/>fore he declares thoſe books to be neither of <hi>Charles</hi> nor of any elſe to whom any Credit might be given, but to be as it were another <hi>Melchizedech,</hi> without Father, with<g ref="char:EOLhyphen"/>out Mother, without Geneology, an <hi>Anonimus</hi> breaking forth into the light, which are certain Toakens of deceit. 6. Yet manifeſt it is that <hi>Adrian</hi> the Pope confutes him, but affirms it not to be the writing of <hi>Charles,</hi> but an he<g ref="char:EOLhyphen"/>retical book ſent to the Pope by <hi>Charles</hi> to be anſwer<g ref="char:EOLhyphen"/>ed. 7. That book of <hi>Adrian</hi> is extant in the third <hi>Tome</hi> of Councels, but by this means it hapned that the com<g ref="char:EOLhyphen"/>pleat acts and decrees of this Councel might not ſee the light.</p>
+            <p n="8">8. <label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>1414</label> The Councel at CONSTANCE was called with great difficulty by <hi>Sigiſmund</hi> and <hi>John</hi> the 23. having about 1000 Biſhops and Doctors for the removing of Popiſh ſchiſms out of the Weſtern parts. 2. Since after <hi>Gregory</hi> the 11. who removed the <hi>Romane See</hi> from <hi>Avignion,</hi> (where it had continued for the ſpace of ſeventy years) ſome Cardinals exalted <hi>
+                  <g ref="char:V">Ʋ</g>rbane</hi> the ſixth, who continued at <hi>Rome,</hi> to the Popes Chair, others <hi>Clement</hi> the ſixth,
+<pb n="37" facs="tcp:36417:20"/>who removed it again to <hi>Avignion,</hi> the Nations are di<g ref="char:EOLhyphen"/>vided into parties, our <hi>Engliſh</hi> with the <hi>French</hi> and <hi>Spa<g ref="char:EOLhyphen"/>niard</hi> adhere to <hi>Clement; Vrbane</hi> dying at <hi>Rome, Boniface</hi> the ninth ſupplyes his place, but <hi>Argalus</hi> a certaine <hi>Venetian Tanner</hi> ſucceeds him under the title of <hi>Gregory</hi> the 12, <hi>Clement</hi> alſo removed out of the way, had for his ſuc<g ref="char:EOLhyphen"/>ceſſor <hi>Peter de Luna</hi> a <hi>Spaniard,</hi> under the name of <hi>Bene<g ref="char:EOLhyphen"/>dictus</hi> the 13. 3. For the extinguiſhing of theſe com<g ref="char:EOLhyphen"/>buſtions the Cardinals and Biſhops meet at <hi>Piſa,</hi> and thoſe Schiſmaticks being diſcharged, they exalt one of <hi>Creet</hi> under the title of <hi>Alexander</hi> the 5 unto the Papal dignity; but this <hi>Peter Philaretus</hi> of <hi>Creet</hi> ſuddainly ſick<g ref="char:EOLhyphen"/>ned (as is reported) by an intoxicated Glyſter, and <hi>John</hi> the 23, by an election of the <hi>Piſan Cardinals poſſeſſed</hi> his <hi>place</hi> who by the perſwaſion of <hi>Sigiſmond</hi> called his Councel at <hi>Conſtance,</hi> and was preſent thereat. 4. In which he being accuſed of about 60 crimes, yields himſelf to the cen<g ref="char:EOLhyphen"/>ſure of the Synod, from which afterwards having changed his mind he fled in the Night; and recanting, is depoſed, and <hi>Martin</hi> the 5 by the Councel is exalted to the Papal dignity. Whence that hapned to <hi>John,</hi> which falling from his Chariot before the Gate of the City he preſaged, ex<g ref="char:EOLhyphen"/>claiming, in the name of all the Devils here I lie. 5. There were forty five Seſſions of this Councel, in it are con<g ref="char:EOLhyphen"/>demned forty five Articles of <hi>John Wickliffe</hi> whoſe body moreover is ordered to be taken out of the Sepulcher and burnt to aſhes. That which is aſcribed to him in the ſixth Article (<hi>Deus debit obedire Diabolo</hi> ſhould be read <hi>Deus dedit</hi>) as <hi>Bernard</hi> of <hi>Lutzenburg</hi> hath it. 6. Con<g ref="char:EOLhyphen"/>cerning the injuries and burning of <hi>John Huſſe</hi> and <hi>Hie<g ref="char:EOLhyphen"/>rom</hi> of <hi>Prage</hi> (againſt the promiſed ſafe conduct of the Emperour) there are large Tragedies. The Fathers con<g ref="char:EOLhyphen"/>clude the Councel to be above the Pope, which ſavours not with the Modern Papiſts: And an engagement with an Heretick not to be kept, which now they defend not, to the end that the <hi>incendiaries</hi> may more ſecretly act their treacheries. But that is a ſtrange decree in the thirteenth
+<pb n="38" facs="tcp:36417:21"/>Seſſion, concerning the denying the Cup to Lay perſons notwithſtanding the practice of our Saviour and his Apo<g ref="char:EOLhyphen"/>ſtles. Hence the noble <hi>Bohemians</hi> juſtly provoked, in an Epiſtle with 54 ſeals to it heroically profeſſe, that they lie in their teeth who lay Hereſie to their Charge, as be<g ref="char:EOLhyphen"/>ing <hi>Huſſites</hi> and that they are ready to defend the law of Chriſt with their bloud, wholly rejecting all humane ſtatutes that contradict the ſame. And <hi>Poggius</hi> of <hi>Floren<g ref="char:EOLhyphen"/>tine</hi>is witneſſe of the admirable learning of <hi>Hierome</hi> of <hi>Pa<g ref="char:EOLhyphen"/>rage,</hi>
+               <note place="margin">Solomon Geſ<g ref="char:EOLhyphen"/>nerus.</note> which he delivered in a peculiar tract. 7. There accompanied this Councel (as one hath it) 450 common women, 600 barbers, 320 jeſters, &amp;c. But good men (ſaith he) unſpeakable for their ratity, all which notwithſtand<g ref="char:EOLhyphen"/>ing without ſafe conduct were free from burnings or other cenſures.</p>
+            <p n="9">9. <label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>1431</label> The Councel of BASIL was called about ſixteen years afterwards, <hi>Sygiſmund</hi> the Emperour procuring it of <hi>Martin</hi> the fifth, and afterwards of <hi>Eugenius</hi> the fourth: in it Cardinal <hi>Julian</hi> of <hi>Arelatum</hi> was Preſident, continu<g ref="char:EOLhyphen"/>ed almoſt the ſpace of 18 years. 2. It had 45 Seſſions, in which not only Biſhops, but other Learned men, which was not permitted in the foregoing Councels, had a de<g ref="char:EOLhyphen"/>finitive ſentence, the number of the perſons voting is un<g ref="char:EOLhyphen"/>certain. 3. In it Pope <hi>Eugenius</hi> the fourth is cited, and not appearing is depoſed for his contempt, and <hi>Ama<g ref="char:EOLhyphen"/>deus</hi> Duke of <hi>Subaudia</hi> who lived an Hermites life in the Mountains of <hi>Ripalia,</hi> by the <hi>Cardinals</hi> is exalted to the Popes Chaire under the name of <hi>Foelix</hi> the fifth. Theſe three Truths were confirmed. 1. That the Councel is above the Pope and all others. 2. That the Pope can<g ref="char:EOLhyphen"/>not diſſolve prolong or remove it being lawfully called. 3. And he that denies theſe things is an Heretick. 4. Nevertheleſſe <hi>Eugenius,</hi> theſe things being thus tranſ<g ref="char:EOLhyphen"/>acted, conſtitutes an Anti-Synod at <hi>Ferraria,</hi> which af<g ref="char:EOLhyphen"/>terwards removed to <hi>Florence,</hi> where he acted with the <hi>Greeks,</hi> the Emperour being preſent, and effected many things which are compleated in the <hi>Councel of Florence</hi>
+               <pb n="39" facs="tcp:36417:21"/>They of <hi>Baſil</hi> in the mean while confirm the pragmatical <hi>Decree,</hi> they condemned popiſh Baſtardy, ſuppreſſed Con<g ref="char:EOLhyphen"/>cubines, ordered how the <hi>Jews</hi> might be brought to Chri<g ref="char:EOLhyphen"/>ſtianity. Declared the bleſſed <hi>Virgin</hi> to be free from the contagion of every ſin, indulged to the Lay <hi>Bohemians</hi> the uſe of the Cup in the <hi>Euchariſt,</hi> behold an Alter, againſt an Altar
+<q>—Pares aquilas &amp; pila minantia pilis.</q> 6. At length by reaſon of the raging peſtilence, they at <hi>Baſil</hi> betake themſelves to <hi>Lauſanua</hi> where <hi>Fredrick</hi> the Emperour perſwades Duke <hi>Amadeus</hi> to renounce the <hi>feli<g ref="char:EOLhyphen"/>city</hi> of Pope <hi>Felix,</hi> unto which for peace ſake he willingly aſſented, ſo <hi>Eugenius</hi> being reconciled, and <hi>Amadeus</hi> ho<g ref="char:EOLhyphen"/>noured with a <hi>Cardinal</hi>'s <hi>Cap,</hi> and dignity of being a Legate, the Councel ended. 7. Nothing of this was ratified and approved, but ſome orders about Eccleſiaſtical benefices ſaith <hi>Bellarmine, Leo</hi> the tenth, in the eleaventh Seſſion of the <hi>Laterane</hi> Councel condemns it as Schiſmatical and Se<g ref="char:EOLhyphen"/>ditious, howſoever we read it was often approved of by <hi>Ni<g ref="char:EOLhyphen"/>colaus Eugenius.</hi> Eſpecially before the death of the Empe<g ref="char:EOLhyphen"/>rour <hi>Sygiſmund, Aeneas Sylvias,</hi> largely deſcribes it and commends it, who was preſent thereat, and afterwards ob<g ref="char:EOLhyphen"/>tained the <hi>Popedome</hi> under the <hi>title</hi> of <hi>Pius</hi> the 2<hi rend="sup">d</hi>, but his opinion was changed with his <hi>Dignity;</hi> our <hi>Fox</hi> in his <hi>Mar<g ref="char:EOLhyphen"/>tyrologie</hi> relates it more plainly and fully, and <hi>Bodlies</hi> Library at <hi>Oxford</hi> can ſhew the undoubted Copie of this Councel.</p>
+            <div type="inquiries">
+               <pb n="40" facs="tcp:36417:22"/>
+               <head>INQUIRIES.</head>
+               <p>Whether
+<list>
+                     <item>1. The fourth <hi>Synod</hi> of <hi>Conſtantinople</hi> may be reckoned among the <hi>Controverted Councels?</hi>
+                     </item>
+                     <item>2. That of <hi>Sardis</hi> may be worthily eſteemed an <hi>Appendix</hi> to that of <hi>Nicene?</hi>
+                     </item>
+                     <item>3. The <hi>Socinianiſme</hi> of theſe times concerning the <hi>Holy Trinity</hi> be not renewed <hi>Photinia<g ref="char:EOLhyphen"/>niſme?</hi>
+                     </item>
+                     <item>4. The <hi>Quiniſext</hi> or <hi>Trullan Synod</hi> may deſer<g ref="char:EOLhyphen"/>vedly be rejected as erroneous?</item>
+                     <item>5. The <hi>Francofurt</hi> overthrowes the opinion of the ſecond <hi>Nicene?</hi>
+                     </item>
+                     <item>6. Thoſe of <hi>Conſtance</hi> and <hi>Baſil</hi> were lawful and general Synods?</item>
+                     <item>7. The Popes and their Adherents agree a<g ref="char:EOLhyphen"/>mong themſelves concerning the number and Authority of <hi>General Councels?</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+         </div>
+         <div n="7" type="chapter">
+            <pb n="41" facs="tcp:36417:22"/>
+            <head>CHAP. VII. Of Rejected <hi>Councels.</hi>
+            </head>
+            <p n="1">1. SUch Councels paſſe under the name of Rejected Councels, which either determine Heretical opi<g ref="char:EOLhyphen"/>nions, or raiſe up Sciſms and troubles to the di<g ref="char:EOLhyphen"/>ſperſing of the Chriſtian Flock.</p>
+            <p n="2">2. Among which are no<g ref="char:EOLhyphen"/>ted above the reſt, theſe
+<list>
+                  <item>1. At ANTIOCH.</item>
+                  <item>2. At MILLAINE.</item>
+                  <item>3. At SELEUCIA.</item>
+                  <item>4. At EPHESUS the <hi>ſecond.</hi>
+                  </item>
+                  <item>5. At CONSTANTINOPLE.</item>
+                  <item>6. At PISA the <hi>firſt.</hi>
+                  </item>
+                  <item>7. At PISA the <hi>ſecond.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="3">3. <label type="milestone">
+                  <seg type="milestoneunit">An.C. </seg>340</label> This Councel of ANTIOCH to be diſtinguiſhed from five others which <hi>Bellarmine</hi> reckons, <hi>Longus</hi> alſo names this, and mentions other Councels of <hi>Antioch.</hi> 2. This is referred to the times of <hi>Conſtantius</hi> and <hi>Julius</hi> the firſt, the baniſhment of <hi>Athanaſius</hi> is ſufficiently known, and his reſtauration by <hi>Conſtantine</hi> the ſonne of <hi>Con<g ref="char:EOLhyphen"/>stantine</hi> the great, which the <hi>Arians</hi> declare to be un<g ref="char:EOLhyphen"/>lawful, becauſe the ſame authority muſt reſtore which did eject: The Matter is referred to <hi>Pope Julius,</hi> he ſum<g ref="char:EOLhyphen"/>mons the Synod to appear at <hi>Rome.</hi> 3. But the <hi>Euſebians</hi> chiefe of the Hereticks, that they might avoid this,
+<pb n="42" facs="tcp:36417:23"/>eaſily ſeduced <hi>Conſtantius</hi> to be at the Conſecration of the Magnificent Temple built by <hi>Conſtantine</hi> the great at <hi>An<g ref="char:EOLhyphen"/>tioch:</hi> where met about 90 Biſhops, 30 of which being <hi>Arians</hi> the favour and Authority of the Emperour, againſt the double Suffrages of the <hi>Orthodox</hi> procured the condem<g ref="char:EOLhyphen"/>ning of reſtored <hi>Athanaſius</hi> 4. In the roome of the depoſed is placed by <hi>Euſebius</hi> a <hi>Nicomedian</hi> one <hi>Euſebius</hi> an <hi>Emyſſen</hi> a famous Champion of <hi>Arianiſme,</hi> but not as yet entred into orders, he as the Poet hath it,
+<q>
+                  <l>
+                     <hi>A ſe tantaledes onus invidiamque removit.</hi>
+                  </l>
+                  <l>By ſlighting honour envy he remov'd.</l>
+               </q> Therefore <hi>Gregory</hi> a <hi>Capadocian</hi> poſſeſſes the Chair, which ſome call <hi>George,</hi> ſuppoſed to be the Saint ſo much ho<g ref="char:EOLhyphen"/>noured by us; it is manifeſt that he was quickly took out of the way, nor was it difficult to the triumphing <hi>Arian</hi> to honour their Martyr in cannonizing him on horſe-back. 5.
+<note place="margin">Baron. Long.</note> 
+               <hi>Gratianus</hi> and <hi>Caranza</hi> cite many things of this <hi>Synod</hi> as Orthodox, wherefore by the late Writers they are con<g ref="char:EOLhyphen"/>demned. 6. They did ſet forth a Form of Belief ſo inter<g ref="char:EOLhyphen"/>mixt with truth and errour, that he which is heedful leaſt he be deceived, in his greateſt warineſſe can ſcarcely be ſafe, for by the omiſſion of that which might eſtabliſh the truth, they weaken that which they undertake to maintain. 7. The 25. Canons of it, which you have mentioned in <hi>Longus</hi> with ſome obſervations, do rather concern the received diſci<g ref="char:EOLhyphen"/>pline then the opinions of the Church <hi>Socrat. l.</hi> 2. <hi>c.</hi> 5. <hi>So<g ref="char:EOLhyphen"/>zomen. l.</hi> 3. <hi>c.</hi> 5.</p>
+            <p n="4">4. <label type="milestone">
+                  <seg type="milestoneunit">An.C. </seg>355</label> That at MILLAINE Plows with the ſame Heifer under <hi>Conſtantine</hi> the Emperour, and <hi>Liberius</hi> the Pope. 2. In it were met about 300 Biſhops, the Em<g ref="char:EOLhyphen"/>perour himſelf was Preſident, an utter enemy to the Or<g ref="char:EOLhyphen"/>thodox party. I (ſaith the Emperour) am an accuſer of <hi>Athanaſius,</hi> in my name give credit to them. 3. The Weſtern Catholick Biſhops who were preſent (for there were few Eaſtern) promiſed to conſent to the <hi>A<g ref="char:EOLhyphen"/>rians</hi> if they would firſt ſubſcribe to the <hi>Nicene Creed,</hi>
+               <pb n="43" facs="tcp:36417:23"/>but <hi>Valence</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>rſacius</hi> the chief Leaders of that Faction withſtood them, relying on the Emperours Epiſtle which was read in the Synod. 4. Then followed the degrading of the Biſhops, the corrupt Eccleſiaſtical de<g ref="char:EOLhyphen"/>terminations; ſo that you might ſtile it rather a conſpi<g ref="char:EOLhyphen"/>racy of impious perſons than a convention of Chriſtians. 5. This was effected eſpecially that they might allure <hi>Li<g ref="char:EOLhyphen"/>berius</hi> Biſhop of Rome either by gifts or threatnings to their impieties who is reported (both his threatnings and gifts being ſlighted) thus heroically to have anſwered the Emperour, who had judged him to be baniſhed to <hi>Thrace,</hi> and offered him the charge of his journey. Thou haſt rob<g ref="char:EOLhyphen"/>bed the Churcher of the Earth, and now offereſt to me con<g ref="char:EOLhyphen"/>demned and indigent an almes, goe firſt and become a Chriſtian thy ſelf. 6. <hi>Felix</hi> a Deacon placed in the room of <hi>Liberius</hi> mixed with the <hi>Arians,</hi> yet he alwaies intirely obſerved the <hi>Nicene</hi> Creed, which was a little diſpleaſing to the Orthodox. 7. <hi>Hoſius</hi> of <hi>Corduba</hi> at that time well nigh an hundred years old eſcaped not the ſtroake of his ty<g ref="char:EOLhyphen"/>ranny, <hi>Hilarius</hi> the Deacon by whipping is urged to ſub<g ref="char:EOLhyphen"/>ſcribe, others by baniſhments and riflings are forced to con<g ref="char:EOLhyphen"/>ſent. Neither under</p>
+            <p n="5">5. <label type="milestone">
+                  <seg type="milestoneunit">An.D. </seg>363</label> The Councel at SELEUCIA under the ſame <hi>Conſtantius,</hi> did the perſecution ceaſe. 2. At that time were convened at <hi>Ariminum</hi> (as <hi>Bellarmine</hi> will have it out of the Chronicles of <hi>Jerome.</hi>) 600 Biſhops of which the Eaſtern <hi>Heterodox</hi> being overpowred both in number and Arguments by the Orthodox, by the Emperours Command they remove this Councel to <hi>Iſauria</hi> in <hi>Selu<g ref="char:EOLhyphen"/>cia.</hi> 3. But here the <hi>Acacians</hi> altogether reject Conſubſtan<g ref="char:EOLhyphen"/>tiallity, the <hi>Semi-Arians</hi> admit it in their ſence, ſtill re<g ref="char:EOLhyphen"/>taining the leaven which corrupts the whole lump. 4. In this diſſention the <hi>Semi-Arians</hi> prevail; and determine, that the form of Faith compoſed at the dedication at <hi>Antioch</hi> ſhould be retained and ſubſcribed unto, but they ejected the diſſenting <hi>Acacians</hi> or <hi>Arians</hi> from their places. 5. Thus condemned they betake themſelves to the Em<g ref="char:EOLhyphen"/>perour,
+<pb n="44" facs="tcp:36417:24"/>and ſo far prevaile with him, that at another meet<g ref="char:EOLhyphen"/>ing called at <hi>Conſtantinople</hi> they are wholly reſtored: here they frame a new Creed, in which not only the tearms of ſubſtance; but alſo of Hypoſtaſis or ſubſiſtance are ex<g ref="char:EOLhyphen"/>cluded. 6. The <hi>Semi-Arians</hi> on the other ſide rejecting this are by force baniſhed from their places by the <hi>Aca<g ref="char:EOLhyphen"/>cians,</hi>
+               <note place="margin">Act. 22.10. <hi>Apud Hilar. l.</hi> 2. <hi>p.</hi> 44.</note> in the mean while the Catholicks condemn <hi>Arius</hi> the Authour of their Sect. Like as the <hi>Phariſies</hi> and <hi>Saduces,</hi> aſſailing each other in the cauſe of <hi>B. Paule,</hi> are overcome by their own diſſentions. 7. <hi>Hilarie</hi> of <hi>Pictavia</hi> (whom they report to be a <hi>Svbellian</hi>) together with the Weſtern Catholicks, will not ſtart an hairs breadth from the <hi>Nicene Creed</hi> the Emperour interpoſes this, that the determination of no Councel whatſoever ſhall have power, to which the Statutes of this Councel denies Power and liberty. He forced the Biſhops to ſub<g ref="char:EOLhyphen"/>ſcribe to ſuch a form of Belief brought from <hi>Ariminum</hi> to <hi>Conſtantinople,</hi> that by the ſame command of the Emperour, one was the Weſtern Profeſſion of Faith, another the Eaſtern. Conſult with <hi>Ruffin. l.</hi> 10. <hi>c.</hi> 21. <hi>Socrat. l.</hi> 2. <hi>c.</hi> 31, 32. <hi>Athanaſ. de Synod. Baron. An.</hi> 359. <hi>N.</hi> 61. <hi>&amp;. Seq. Long. p.</hi> 270. <hi>Auguſt. Hieron. Baſil. apud Bell. de Concil. l.</hi> 1. <hi>c.</hi> 6. and others.</p>
+            <p n="6">6.
+<note place="margin">
+                  <hi>Sozomen. c.</hi> 35 <hi>Hiſt. Tripart. l.</hi> 5. <hi>c.</hi> 34.</note> The occaſion of the 2. Councel of EPHESUS was <hi>Eutyches</hi> an <hi>Archimandrite</hi> of <hi>Conſtantinople,</hi> who after <hi>Manes</hi> and <hi>Apollinaris</hi> denied the fleſh of Chriſt to be like ours,
+<label type="milestone">
+                  <seg type="milestoneunit">An.C. </seg>449</label> but affirmed that falling from Heaven like the rayes of the Sun, it penetrated the Virgins Womb, and ſo he denied that two natures were in Chriſt incarnate; but aſſerted that his fleſh was changed into his Divinity. 2. For ſuch like ſtrange ſopperies wherewith he had de<g ref="char:EOLhyphen"/>luded many, he was deſervedly condemned by <hi>Flavianus</hi> Patriarch of <hi>Conſtantinople,</hi> and <hi>Euſebius</hi> Biſhop of <hi>Doril,</hi> and others their aſſociates. He was ſo far from repen<g ref="char:EOLhyphen"/>ting that he obtained from <hi>Theodoſius</hi> who was very plia<g ref="char:EOLhyphen"/>ble, by the means of <hi>Chryſaphius</hi> the <hi>Eunuch</hi> and <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udoxia</hi> the Empreſſe, both ſeduced by his allurement, that the
+<pb n="45" facs="tcp:36417:24"/>Examination of a famous Synod might end the matter. 3. Therefore this at <hi>Epheſus</hi> by the Emperours authority is called, there met 128 Biſhops <hi>Dioſcorus</hi> of <hi>Alexan<g ref="char:EOLhyphen"/>dria</hi> being Preſident, <hi>Leo</hi> is ſummoned from the Weſt, and leaſt he ſhould ſeem to be neglected, he ſends three Legates; all being convened, all things are tranſacted at <hi>Dioſcorus</hi> his beck, who not more full of <hi>Eutychianiſme</hi> than of arrogance and tyranny, as little valued the letters and Embaſſadour of <hi>Leo,</hi> as he had the condemnation of <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>utiches</hi> by <hi>Euſebius</hi> of <hi>Doril.</hi> 4. At length <hi>Putiches</hi> is ab<g ref="char:EOLhyphen"/>ſolved, and the reclaimers are forced to ſubſcribe by club-Arguments. <hi>Flavianus</hi> oppoſing is ſo furiouſly trodden upon (and among the reſt as ſome affirm by <hi>Dioſcorus</hi> himſelf) that three dayes after he committed his ſoul into the hands of God. 5. <hi>Ibas</hi> an <hi>Edyſſen, Euſebius</hi> of <hi>Doril,</hi> and <hi>Theodoret</hi> of <hi>Cyrus,</hi> with other very learned Biſhops are diſcharged of their places. The Popes Le<g ref="char:EOLhyphen"/>gates not without very great danger of their lives, return<g ref="char:EOLhyphen"/>ed home. 6. Of which more than barbarous inhumanity an <hi>Acacian</hi> Biſhop complained to <hi>Dioſcorus,</hi> afterwards pleading the cauſe before the <hi>Calcedon</hi> Fathers. They compelled and forced us, having ſuffered many evils, to ſubſcribe to a blank paper, and kept us gain-ſaying and oppoſing them in the Church untill the evening, and we being ſick they permitted us not to reſt, but ſent Soul<g ref="char:EOLhyphen"/>diers to us with clubs and ſwords, and thus made us ſub<g ref="char:EOLhyphen"/>ſcribe. 7. Whence this is called by all the pious, the Synod of <hi>Thieves,</hi> in which Satan erected his Throne, not long after to be daſhed in pieces by the moſt famous Coun<g ref="char:EOLhyphen"/>cel of <hi>Calcedon Liberat. in Breviar. c.</hi> 12. <hi>Evagr. l.</hi> 1. <hi>c.</hi> 9, 10, <hi>Niceph. l.</hi> 14. <hi>c.</hi> 47.</p>
+            <p n="7">7. The Councel of CONSTANTINOPLE,
+<label type="milestone">
+                  <seg type="milestoneunit">An.C. </seg>730</label> which is numbred among the <hi>rejected</hi> is by ſome, accounted two,
+<note place="margin">
+                  <hi>Bell. de Cont. l.</hi> 1. <hi>c.</hi> 6.</note> which others contract into one, but the diſtinction is ma<g ref="char:EOLhyphen"/>nifeſt, becauſe the firſt is ſaid to be celebrated under the Father <hi>Leo Iſaurus An.</hi> 730. The 2d by <hi>Conſtantius Copro<g ref="char:EOLhyphen"/>nymus An.</hi> 755. 2. One in the mean while oppoſes the
+<pb n="46" facs="tcp:36417:25"/>worſhipping of Images and Reliques, upon which account both may be eſteemed as one, or at leaſt united. 3. The firſt under <hi>Leo</hi> diſcovers interceſſion of Saints to be imagi<g ref="char:EOLhyphen"/>nary, and the worſhipping of Images meer Idolatry. <hi>Germanus</hi> Patriarch of <hi>Conſtantinople, John Damaſcene,</hi> and others too much inclined to Images are deprived of their dignities. 4. <hi>Gregory</hi> the third intercedes for Ima<g ref="char:EOLhyphen"/>ges in a <hi>Romane</hi> Anti-Synod, in which he excommuni<g ref="char:EOLhyphen"/>cates the Eaſtern with the mark of Heretical Image brea<g ref="char:EOLhyphen"/>kers, theſe things terrifie not <hi>Conſtantine Copronymus</hi> the ſon from declaring himſelf to be an Image-breaker. He ga<g ref="char:EOLhyphen"/>thered together at <hi>Conſtantinople,</hi> 338 Biſhops over whom he is Preſident, and perſecutes the maintainers of Images. 6. Some receive this and the ſeventh as Oecumenical, but the <hi>Romanes</hi> ſo abhorred it, that for this Controverſy a<g ref="char:EOLhyphen"/>bout Images they rebelled againſt the Greek Emperours their lawful Princes: Whence afterwards followed the Weſtern and Eaſtern diviſion, which opened ſuch a gap to the enemies of the Church, never to be made up. 7. The ſecond <hi>Nicene</hi> Councel corrects the errours of this, but how ſtrongly and divinely appears by its decrees. Con<g ref="char:EOLhyphen"/>cerning theſe Synods, <hi>vid. Paul. Diac. l.</hi> 21.22. <hi>rerum Roman. &amp; Zonarum in annal.</hi>
+            </p>
+            <p n="8">8. <label type="milestone">
+                  <seg type="milestoneunit">A.C. </seg>1409</label>
+               <hi>Bellarmine</hi> is doubtful whether to reckon the firſt Councel of PISA among the rejected or approved,
+<note place="margin">
+                  <hi>Bell. de concil. l.</hi> 1. <hi>c.</hi> 8.</note> by ſome it is taken for a general Councel, and defended in a three daies diſputation by <hi>Laurentius Rodolphus</hi> of <hi>Flo<g ref="char:EOLhyphen"/>rence,</hi> as is teſtified by <hi>Antonius, Gerſon Azorius</hi> and o<g ref="char:EOLhyphen"/>thers. 6. There were preſent thereat 23 Cardinals, 3 Pa<g ref="char:EOLhyphen"/>triarchs, 300 Arch-Biſhops and Biſhops, 28 Governours of Monaſteries, and an infinite number of Divines and Em<g ref="char:EOLhyphen"/>baſſadours of Princes. 3. The intolerable differences be<g ref="char:EOLhyphen"/>tween <hi>Benedict</hi> the 12. and <hi>Gregory</hi> the 13. well nigh ma<g ref="char:EOLhyphen"/>king the Popes Chair like double <hi>Parnaſſus,</hi> occaſion this meeting of ſo many famous men, concerning which ſome<g ref="char:EOLhyphen"/>thing is before ſpoken in the Councell of <hi>Conſtance.</hi> 4. Both having been ſummoned, are depoſed by the Councel
+<pb n="47" facs="tcp:36417:25"/>for contempt and perjury, by its own authority places <hi>Alexander</hi> the 8th in Saint <hi>Peters chaire</hi> which how<g ref="char:EOLhyphen"/>ſoever removed not the difference yet <hi>Alexander</hi> thus elected is reckoned in the Catalogue of the Popes. 5. There were 23 Seſſions of this Councell, and its Acts printed at <hi>Paris</hi> by the priviledge of the moſt Chriſtian King <hi>An.</hi> 1612. are extant. 6.
+<note place="margin">3. <hi>Part. Tit.</hi> 22. <hi>c.</hi> 5. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2 3</note> 
+               <hi>Antonius</hi> rejects this for a headleſſe Councell becauſe called in a tumult by the Cardinals without the Popes Authority. 7. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut remidies are to be applyed to extraordinary events, not which the Law affords, but which are ready at hand, for how could they conſult the head, which was diſtempered with a double impoſtum: the Chriſtian Princes had applyed a cautrie, eſpecially the Emperour, but becauſe they con<g ref="char:EOLhyphen"/>ſented not with the Cardinals, the decrees are eſteemed as not nulled, becauſe they wanted the Popes ſeal.</p>
+            <p n="9">9. The ſecond PISA was called by <hi>Maximilian</hi> the Emperour and <hi>Lewis</hi> the <hi>French</hi> King againſt Pope <hi>Julius</hi> the ſecond. 2. This <hi>Julius</hi> had bound himſelfe by an oath to celebrate a generall Councell within the ſpace of two yeares after his election to the Popedome, but ſecular troubles intervening, more regard is had to policy than to his oath. He flinches, prolongs, &amp; deludes thoſe that expect. 3. Therefore under the Protection of the Emperour and the King of <hi>France,</hi> ſome more emi<g ref="char:EOLhyphen"/>nent Cardinalls meet at <hi>Piſa,</hi> they ſummon the Pope to make an appearance, and give an account of thoſe things which ſhall be objected againſt him. 4. He is ſo farre from obeying, that he thunders his Excommunication againſt them altogether with the King of <hi>France.</hi> The Emperour himſelf ſcarcely eſcapes, but being become more mild for a time, he declined a combuſtion. 5. The Pope calls a <hi>Laterane</hi> Anti-Synod at <hi>Rome,</hi> the Cardi<g ref="char:EOLhyphen"/>nals and Biſhops which favoured his party meet, before whom he excuſes his perjury, cleares himſelf from ob<g ref="char:EOLhyphen"/>jections, and dyes. <hi>Leo</hi> the tenth ſucceed scontinues the Councell with great applauſe, ratifyed many decrees,
+<pb n="48" facs="tcp:36417:26"/>as was related before in the fifth <hi>Laterane</hi> Councell a<g ref="char:EOLhyphen"/>mong the Oecumenicall Synods. 6. The <hi>Piſan</hi> Cardinalls with theirs ſubmit themſelves, and after ſupplications are reſtored to their former dignity. The <hi>Frenchman</hi> perſiſts &amp; coynes mony with this inſcription <hi>Perdam Babylona,</hi> I will deſtroy <hi>Babylon.</hi> 7. There are no decrees (I know) of this Schiſmaticall Councel extant, it is rejected by the Pope, eſpecially for theſe reaſons. 1. Becauſe it was not called by the Pope. but inſolently againſt the Pope, by his ſub<g ref="char:EOLhyphen"/>jects. 2. Becauſe the time prefixed was too ſhort for the appearing of thoſe that were called. 3. And the <hi>City</hi> of <hi>Piſa</hi> Conſumed &amp; ſpoyled by the foregoing Warrs was not a fit place for the Councel. 4. Becauſe it was wholy denyed and rejected by the following <hi>Laterane</hi> Councel. And truly the Pope howſoever perjured and wicked, was not to be reprehended by his own; but to be called or<g ref="char:EOLhyphen"/>derly by his <hi>Lord</hi> the Emperour &amp; other Chriſtian Princes.</p>
+            <div type="inquiries">
+               <head>INQUIRIES.</head>
+               <p>Whether
+<list>
+                     <item>1. The Councell of <hi>Antioch</hi> may be eſteemed rejected, becauſe not called by the Pope?</item>
+                     <item>2 <hi>Conſtantius</hi> the Emperour at the Councell of <hi>Millaine</hi> could lawfully undertake the <hi>Preſidentſhip,</hi> &amp; be an accuſer of <hi>Athanaſius?</hi>
+                     </item>
+                     <item>3. The Statutes of any councel without the confirmation of the Emperour be invalid with his ſubjects?</item>
+                     <item>4. The Synod of <hi>Epheſus</hi> may deſervedly be called <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> or a Synod of Theeues?</item>
+                     <item>5. The Image-breakers under <hi>Leo</hi> and <hi>Copro<g ref="char:EOLhyphen"/>nymus</hi> may be rightly eſteemed as heretiques</item>
+                     <item>6. The <hi>Idolatrous Treachery</hi> of the Popes up<g ref="char:EOLhyphen"/>holding <hi>Images,</hi> did <hi>trayterouſly</hi> withdraw the <hi>Weſternes</hi> from the <hi>Greeke Emperour?</hi>
+                     </item>
+                     <item>7 The ſecond <hi>Synod</hi> at <hi>Piſa</hi> might lawfully <hi>ſuſpend Pope Julius</hi> the ſecond from <hi>Spiri<g ref="char:EOLhyphen"/>tuals</hi> and <hi>Temporalls?</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+         </div>
+         <div n="8" type="chapter">
+            <pb n="49" facs="tcp:36417:26"/>
+            <head>CAP. VIII. Of National Synods.</head>
+            <p>VVE have ſpoken already of General Councells, (in ſome manner ſo cal<g ref="char:EOLhyphen"/>ed,) Nationall followes, which com<g ref="char:EOLhyphen"/>prehends the Provincials of every Metropolitan or Dio<g ref="char:EOLhyphen"/>ceſian Biſhop within their own bounds.</p>
+            <p>Theſe 1. give place to generall Councells. 2. Nor do they oblige out of their own preſcribed limites. 3. Yet their decrees conformable to Scripture and confirmed by generall Councels are in force every where.</p>
+            <p n="2">2. They are diſtributed into
+<list>
+                  <item>1. ITALIAN.</item>
+                  <item>2. SPANISH.</item>
+                  <item>3. FRENCH.</item>
+                  <item>4. GERMANE.</item>
+                  <item>5. EASTERNE.</item>
+                  <item>9. AFRICAN.</item>
+                  <item>7. BRITAN.</item>
+               </list>
+            </p>
+            <p n="3">3. Which cannot be ſeverally handled in a compen<g ref="char:EOLhyphen"/>dium, for many of them are either by peece-meales deli<g ref="char:EOLhyphen"/>vered by hiſtorians without Seſſions of Canons, or are ſtrangly accommodated to the condition of thoſe times or being obſolete are become uſeleſſe, therefore it is ſuffi<g ref="char:EOLhyphen"/>cient curſorily here &amp; there to handle thoſe things which may be of ſome uſe unto us, and by a digreſſion to ſpeak to ſome things which may make way for larger.</p>
+            <p n="4">4. In ITALIE we meet with 115 ſuch Synods, as it were nationall, which go under the name of Romane Councels thoſe may be conſidered, which are multiply<g ref="char:EOLhyphen"/>ed by <hi>Victor</hi> and others concerning the celebration of the <hi>Paſcha;</hi> and thoſe which received penitent Apoſtates into Church communion, againſt the more then <hi>Stoicall</hi> au<g ref="char:EOLhyphen"/>ſterity
+<pb n="50" facs="tcp:36417:27"/> of the <hi>Novations.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">An.D </seg>494</label> 3. Under <hi>Gelaſius</hi> that is of more weighty moment,
+<note place="margin">
+                  <hi>Long. p.</hi> 413. <hi>Dist.</hi> 15. <hi>c. Sancta Roma<g ref="char:EOLhyphen"/>na.</hi>
+               </note> namely an <hi>Index Expurgatorius</hi> of Or<g ref="char:EOLhyphen"/>thodox and Hetrodox books, compoſed at a <hi>Synod</hi> of 70 Biſhops, and brought the Canon Law by poſterity, where we may read of more things concerning the extir<g ref="char:EOLhyphen"/>pation of the Legends of Infidels and ideots, but nothing of the Popes ſupremacy which is added by the Moderns 4. That Simceſſan Councel is not to be paſt by in ſilence celebrated by 300 Biſhops in very troubleſome times,
+<note place="margin">
+                  <hi>Long. p.</hi> 160. <hi>Bell. de Rom. Pontif. l.</hi> 4. <hi>c.</hi> 8.</note> in which is condemned Pope <hi>Marcellinus</hi> becauſe he did Sa<g ref="char:EOLhyphen"/>crifice to Idols, neither was he excuſed from his errour, becauſe he did it in fear, and afterwards repented; theſe things may prevail with God for pardon, but not with men to acknowledge the infallible condition of the <hi>Pope</hi> 5.
+<label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>1410</label> That Councell alſo is worthy to be noted, called by <hi>John</hi> 23 for the Coronation of <hi>Sigiſmond</hi> the Emperour. where an <hi>Owle</hi> boldly offering himſelf with his iterated ominous aſpect, brought a trouble and diſſolution to the whole buſines.
+<label type="milestone">
+                  <seg type="milestoneunit">A.D. </seg>1076</label> 6. They at the Synod of <hi>Papia</hi> coura<g ref="char:EOLhyphen"/>giouſly excommunicated the Pope, who on the other ſide had Excommunicated the Emperour &amp; them; &amp; that of <hi>Brixia</hi> without any ſcruple removed <hi>Gregory</hi> the 7. commonly caled <hi>Hilderbrand,</hi>
+               <note place="margin">
+                  <hi>Long p.</hi> 734. Id. <hi>p.</hi> 739. Id. <hi>p.</hi> 741.</note> the moſt furious Champion of all the Popes from his Chair. 7. In the <hi>Melfitan</hi> Synod, and others, there are many things concerning Eccleſiaſti<g ref="char:EOLhyphen"/>cal diſcipline moſt worthy obſervation, laying aſide ſome ſuperſtitious and Ambitious Synods too much favouring of the corruptions of that age wherein they were called.</p>
+            <p n="5">5. The SPANISH Councels are. 1 At <hi>Toledo</hi> 25, in which many things were piouſly and prudently decreed, as chiefly that aſſertion of belief againſt the <hi>Priſcillianiſts.</hi> 2. The <hi>Elibertine,</hi> which ratified 81 wholſome <hi>Canons;</hi> the 36 forbad pictures in the Church. 3. That at <hi>Caeſar Aug.</hi> alſo againſt the <hi>Priſcilianiſts,</hi> in which was ordered, that none ſhould challenge to themſelves the title of <hi>Doctor,</hi> unleſſe he was lawfully advanced unto it. 4. That at <hi>Iler<g ref="char:EOLhyphen"/>da.</hi> 4. <hi>Canons</hi> whereof <hi>Gratianus</hi> cites, one of which is that nuptials are not to be celebrated in <hi>Lent.</hi> 5. At <hi>Bragara</hi>
+               <pb n="51" facs="tcp:36417:27"/>the firſt and ſecond, in which not only the <hi>Manichees Mathe<g ref="char:EOLhyphen"/>maticians,</hi> and <hi>Priſcilianiſts</hi> are deſervedly ſtigmatized, but alſo ſome things not inconſiderable are added for the pre<g ref="char:EOLhyphen"/>ſerving of order and decency in the Church. 6. At <hi>Matiſ<g ref="char:EOLhyphen"/>cona</hi> the firſt and ſecond, reforms the vices of the Clergy, and urges the paying of Tithes, and the pious obſervation of hoſpitality, at this time too much eſteemed. 7. That at <hi>Hiſpalis</hi> againſt the <hi>Acephali</hi> which diſallowed the conſe<g ref="char:EOLhyphen"/>cration of a Presbyter, by a Presbyter, and of Churches by <hi>Dioſecian Biſhops,</hi> theſe things are more largely handled in <hi>Garſia Loayſa,</hi> who more diligently ſearched into and col<g ref="char:EOLhyphen"/>lected the <hi>Spaniſh</hi> Councells.</p>
+            <p n="6">6. Nor is FRANCE to be eſteemed as leſſe fruitfull in conventions. 1.
+<note place="margin">
+                  <hi>Long.</hi> 433. Id. 643.</note> In which one of the 13 <hi>Pariſian</hi> Councells againſt ſacrilegious perſons, and another diſtributed into 3 Books urging upon Princes, Biſhops and Subjects whole<g ref="char:EOLhyphen"/>ſome things, are of ſpeciall moment. 2. At <hi>Arelate,</hi> the firſt in the caſe of <hi>Cecilianus</hi> and <hi>Felix</hi> Biſhop of <hi>Aptungis;</hi> the ſecond againſt the <hi>Photinians, Bonoſians,</hi> and concerning diſcipline to be obſerved by the Clergy; The 3 which de<g ref="char:EOLhyphen"/>clares the anathemes of <hi>Fauſtus</hi> of <hi>Rhegium,</hi> and the Con<g ref="char:EOLhyphen"/>feſſion of <hi>Lucidus,</hi> above the reſt are worthy conſideration. 3. Seaven Councells at <hi>Aurelia</hi> have many things concern<g ref="char:EOLhyphen"/>ing Eccleſiaſticall diſcipline that are not inconſiderable, and that is obſervable in the firſt concerning rogations and Letanies to be celebrared before the aſcention of our <hi>Lord</hi> 4.
+<note place="margin">Id. 429.</note> At <hi>Arauſia</hi> the 2d wholely confutes the <hi>Pelagians</hi> and <hi>Semi-Pelagians</hi> out of the writings of <hi>Auguſtine.</hi> 5. At <hi>Bytu<g ref="char:EOLhyphen"/>ris,</hi> it confirmes the Pragmaticall Sanction againſt the Po<g ref="char:EOLhyphen"/>piſh plots and contrivances. 6.
+<note place="margin">Id. 562.</note> That at <hi>Cabellonum</hi> upholds the priviledges of the ſanctuary, and reſtores the reverence of the <hi>Sabboth.</hi> 7.
+<note place="margin">Id. 258.</note> That at <hi>Vaſo</hi> commands <hi>gloria patri</hi> and <hi>Ky<g ref="char:EOLhyphen"/>rie Eleyſon,</hi> together with the <hi>Triſagium</hi> to be inſerted into the <hi>Liturgy</hi> Conſult <hi>Jacob Germundus</hi> his collection of the <hi>French Synods.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="448"/>
+            </p>
+            <p n="7">7. In the higher and lower GERMANY, beſides 9. <hi>Sy<g ref="char:EOLhyphen"/>nods</hi> at <hi>Colonia,</hi> theſe Councels above the reſt are obſervable 1. The <hi>Auguſtan</hi> concerning the reformation of the <hi>Clergy.</hi>
+               <pb n="52" facs="tcp:36417:28"/>2. The <hi>Bavarican</hi> concerning the Saboath and the Gods of the Church. 3. That at <hi>Wormes</hi> concerning a <hi>decorum</hi> to be obſerved in Eccleſiaſticall matters, and the puniſhment of Wicked persons. 4. The <hi>Moguntine</hi> the firſt concerning Eccleſiaſticall immunities, the 2d againſt <hi>Gotteſchalcus:</hi> and thhe 3d, in which prayers are injoyned in behalf of King <hi>Arnulphus</hi> and his Wife, &amp; alſo for the good eſtate of Chri<g ref="char:EOLhyphen"/>ſtianity. 5. At <hi>Aquiſgranum</hi> concerning Eccleſiaſticall or<g ref="char:EOLhyphen"/>ders.
+<milestone type="tcpmilestone" unit="unspecified" n="689"/> 6. The <hi>Erfordian</hi> concerning feſtivall dayes. 7. At <hi>Dort</hi> againſt the <hi>Remonſtrants,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="699"/> and their maſters the <hi>Socinians.</hi>
+            </p>
+            <p n="8">8. Under the EASTERNE are comprehended the <hi>Grecian</hi> of <hi>Europe,</hi> and the neighbour <hi>African;</hi> of which ſort among the <hi>Grecian</hi> are numbred.
+<milestone type="tcpmilestone" unit="unspecified" n="337"/> 1. Councells at <hi>Conſtantino<g ref="char:EOLhyphen"/>ple</hi> 33.2. The Synod at the oake in the caſe of <hi>Chryſoſtome</hi> &amp; <hi>Photius.</hi> 3. The Eaſtern againſt the <hi>Maſſillianites,</hi> who de<g ref="char:EOLhyphen"/>ceived the Church with their ſubtleties.
+<milestone type="tcpmilestone" unit="unspecified" n="353"/> 4. The <hi>Ancyran</hi> con<g ref="char:EOLhyphen"/>cerning the receiving and rejecting thoſe that fell away. 5,
+<milestone type="tcpmilestone" unit="unspecified" n="185"/> At <hi>Laodicea,</hi> againſt Angel-worſhip <hi>can.</hi> 35. and concern<g ref="char:EOLhyphen"/>ing the Canon of the Scripture <hi>can.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="222"/> 85.6. At <hi>Gargra,</hi> con<g ref="char:EOLhyphen"/>cerning the <hi>religeous</hi> reformation of manners. 7. The <hi>Tyrian,</hi> in which that great man <hi>Athenaſius</hi> was troubled and freed.</p>
+            <p n="9">9. Under the title of AFRICAN Councels almoſt 20 are mentioned by the <hi>Summuliſts,</hi> whoſe Canons are ſo promiſcuouſly collected in one volume,
+<note place="margin">
+                  <hi>Vid. Baron.</hi> An. 394. n. 32 <hi>l.</hi> 346.</note> that they were hardly diſtinguiſhable by thoſe that lived after. 2. Of the 15 <hi>Carthagenians</hi> the 6 is more worthy obſervation, by wich the ſubtleties of the Roman Popes are diſcovered in obtruding a ſuperſtitious Canon of the <hi>Nicene Councell</hi> for the receiving appeales. 3. Moreover the three firſt, concerning the diſaproving of the baptiſme of <hi>Heretiques</hi> between <hi>Cyprian</hi> and <hi>Stephanus,</hi> doe manifeſt, that there is not ſo great an inequality of authority, as that the <hi>African</hi> ſhould yeild to the full power of the Roman. 4. A<g ref="char:EOLhyphen"/>bove the reſt we meet with worth the obſerving the <hi>Mile<g ref="char:EOLhyphen"/>vetan ynod,</hi> in which <hi>Pelagianiſme</hi> by the Biſhops was wholy confuted.
+<note place="margin">Long p. 342.</note> 5. The Councel of <hi>Hippo</hi> collects and con<g ref="char:EOLhyphen"/>tracts the more convenient Canons of other Synods. 6. In tthe <hi>Cavernan</hi> Councell there is obſervable, a nota<g ref="char:EOLhyphen"/>ble
+<pb n="53" facs="tcp:36417:28"/>Skirmiſh between the <hi>Primaniſts</hi> and the <hi>Maximianiſts</hi> which often happens to mad braine Schiſmatiques, who when once they have forſaken the Church, they do not long agree among themſelves <hi>Auguſt. in Pſ.</hi> 36.7. To which alſo may be referred the <hi>Bagian Councell,</hi> where 340. Bi<g ref="char:EOLhyphen"/>ſhops are gathered together by <hi>Primianus</hi> of <hi>Carthage,</hi> they put down <hi>Maximainus</hi> and his followers to the loweſt ſeats. <hi>Auguſt. contr. Creſonium L.</hi> 3. <hi>c.</hi> 53. the <hi>African Councells</hi> are more diligently <hi>collected</hi> and <hi>pvbliſhed</hi> by <hi>Julius.</hi>
+            </p>
+            <p n="10">10. Among the BRITAN <hi>Councells</hi> theſe are noted a<g ref="char:EOLhyphen"/>bove the reſt. 1. At <hi>Winchefler</hi> in the time of <hi>Edgar</hi> under <hi>Dunſtane,</hi> where a wooden croſſe gave a ſuffrage againſt the married Prieſts, whence theſe verſes,
+<q>
+                  <l>
+                     <hi>Humano more crux praeſens edidit ore,</hi>
+                  </l>
+                  <l>
+                     <hi>Coelitus effata, quae proſpicis hic ſubarata,</hi>
+                  </l>
+                  <l>
+                     <hi>Ab ſit ut hoc fiat, &amp; coetera commemorata.</hi>
+                  </l>
+                  <l>Like man the croſſe this Heaven begotten word</l>
+                  <l>Utter'd which this ſubſcription doth afford,</l>
+                  <l>Be it not ſo, and ſuch like on record.</l>
+               </q>
+            </p>
+            <p n="2">2. At <hi>Oxford</hi> by <hi>Stephen Langthon</hi> Arch-Biſhop of Can<g ref="char:EOLhyphen"/>terbury, who diſtinguiſht the Bible into Chapters, and did illuſtrate it with Commentaries: from him we have Excommunications, and 48 Conſtitutions concerning the right government of the Church, which <hi>Linwood</hi> here &amp; there inſerts in his provincials; they may be read together in <hi>Binius, Longus,</hi> and others. 3. At <hi>Claringdon</hi> under <hi>Henry</hi> the 2d. <hi>John</hi> of <hi>Oxford</hi> by the Kings command being Preſident; in this are eſtabliſhed 16 Chapters of Engliſh Cuſtomes, as <hi>Math. Paris</hi> relates: which the Romans reliſh not, as is manifeſt by their cenſures, it [condemned] and [tolerated,] each being mentioned by <hi>Longus.</hi> 4. The Councel under <hi>Edward</hi> the 6th; in which 39 Articles of the Engliſh Confeſſion was concluded and confirmed. 5. The Synod under the ſame Perſon, from which we receive the <hi>Engliſh Liturgy</hi> which now we have, Compoſed by ſeaven Biſhops, and foure Doctors, and confirmed by the publique conſent of the Church: which (as alſo the preceeding Articles) the ſucceeding Princes
+<pb n="54" facs="tcp:36417:29"/>
+               <hi>Elizabeth, James</hi> and <hi>Charles,</hi> ratified and commended to Poſterity. 6. The <hi>London</hi> Synod; in which 141 Conſtitu<g ref="char:EOLhyphen"/>tions, relating to the pious and peaceable government of the Church, preſented to King <hi>James</hi> by the Biſhops and others deputed by the Church met together, are worthily confirmed by his Regall Authority. 7. The Councell at <hi>Perth</hi> in <hi>Scotland,</hi> where were Articles concerning admini<g ref="char:EOLhyphen"/>ſtring the Sacrament to the ſick. 2. Concerning private Baptiſme, if neceſſity required. 3. Of Confirmation. 4. Of admitting Feſtivals, and 5. Of kneeling at the Re<g ref="char:EOLhyphen"/>ceiving of the Sacrament (though the Sectaries ſnarl at it) and is allowed of venerable cuſtomes. If any deſire more knowledge in theſe <hi>Brittan</hi> affaires, that famous interpreter of Antiquity, D <hi>H. Spelman</hi> will abundantly ſatisfy him: there is extant a more full declaration and defence of the Synod of <hi>Perth.</hi>
+            </p>
+            <div type="inquiries">
+               <head>INQUIRES.</head>
+               <p>Whether
+<list>
+                     <item>1. Nationall Councels do more immediately oblidge the Subjects thereof, than Generall Councels which are more remote?</item>
+                     <item>2. The <hi>infalibility</hi> of the Pope being granted there is no need of any <hi>Councell,</hi> eſpecially the <hi>Italian?</hi>
+                     </item>
+                     <item>3. <hi>Zſiomus Boniface</hi> and <hi>Celeſtine</hi> did fraudu<g ref="char:EOLhyphen"/>lently obtrude upon the <hi>Africans</hi> the Ca<g ref="char:EOLhyphen"/>non of the firſt <hi>Nicene Councel?</hi>
+                     </item>
+                     <item>4. S. <hi>Auguſtine</hi> and other diſſenters in the ſix <hi>Carthagenian</hi> Synod, did die excluded from the <hi>Communion</hi> of the <hi>Roman Church?</hi>
+                     </item>
+                     <item>5. The <hi>Synod</hi> of <hi>Brixia</hi> could lawfully depoſe the Pope?</item>
+                     <item>6. The <hi>decrees</hi> of a <hi>general Councel,</hi> can for any pretence be <hi>abrogated</hi> by a particular <hi>Synod?</hi>
+                     </item>
+                     <item>7. The <hi>Laity</hi> have only a receptive not a pre<g ref="char:EOLhyphen"/>ceptive Authority in commanding the rites of the Church?</item>
+                  </list>
+               </p>
+            </div>
+         </div>
+         <div n="9" type="chapter">
+            <pb n="55" facs="tcp:36417:29"/>
+            <head>CAP. IX. Of <hi>Conferences.</hi>
+            </head>
+            <p n="1">1. ECcleſiaſtical Conferences are meetings of ſome Divines; in which nothing is canonically deter<g ref="char:EOLhyphen"/>mined, but the opinions of diſſenters are brought to tryal and diſcuſſed.</p>
+            <p n="2">2. And that either,
+<list>
+                  <item>1. By the order of ſome publique authority.</item>
+                  <item>2. By a private arbitrary conven<g ref="char:EOLhyphen"/>tion of Learned men.</item>
+               </list>
+            </p>
+            <p n="3">3. Publique Conferences of the firſt Claſſis have been either with
+<list>
+                  <item>1. The diſſenting <hi>Brethren.</hi>
+                  </item>
+                  <item>2. The <hi>Papiſts.</hi>
+                  </item>
+                  <item>3. The <hi>Lutherans.</hi>
+                  </item>
+                  <item>4. The <hi>Anabaptiſts,</hi>
+                  </item>
+                  <item>5. The <hi>Remonſtrants.</hi>
+                  </item>
+                  <item>6. The <hi>Anti-Trinitarians.</hi>
+                  </item>
+                  <item>7. The <hi>Diſciplinarians.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="4">
+               <pb n="56" facs="tcp:36417:30"/>
+4. For compoſing the diffe<g ref="char:EOLhyphen"/>rences of the Bre<g ref="char:EOLhyphen"/>thren have been Con<g ref="char:EOLhyphen"/>ferences
+<list>
+                  <item>1.
+<milestone type="tcpmilestone" unit="unspecified" n="1529"/> At <hi>Marpurg</hi> concerning the removing the difference about the Euchariſt. <hi>Adamus in vit. German. Theol. pag.</hi> 30.</item>
+                  <item>2.
+<milestone type="tcpmilestone" unit="unspecified" n="1529"/> At <hi>Spira,</hi> where the name of Proteſtants was firſt heard. <hi>Alſted. Chr. p.</hi> 192.</item>
+                  <item>3.
+<milestone type="tcpmilestone" unit="unspecified" n="1536"/> The <hi>Smalcaldican,</hi> where were preſent the Britain Embaſſadours, and others, that the League of the reformed might be ratified. <hi>Id.</hi>
+                  </item>
+                  <item>4.
+<milestone type="tcpmilestone" unit="unspecified" n="1548"/> The <hi>Interimiſtican,</hi> concerning pacification in which is written the Conciliatory book of <hi>Auguſta,</hi> which by reaſon of the ſcope of the diſputants rayſed an indifferent war which was expired in the form of <hi>Paſſavius,</hi>
+                  </item>
+                  <item>5.
+<milestone type="tcpmilestone" unit="unspecified" n="1569"/> At <hi>Altenburg</hi> among the Lutherans concern<g ref="char:EOLhyphen"/>ing juſtification,
+<milestone type="tcpmilestone" unit="unspecified" n="1583"/>
+                     <hi>Adam. p.</hi> 613. as alſo after<g ref="char:EOLhyphen"/>wards performed among the ſame at <hi>Quid<g ref="char:EOLhyphen"/>lingburg</hi> concerning Ubiquity. <hi>Id.</hi> 622.</item>
+                  <item>6.
+<milestone type="tcpmilestone" unit="unspecified" n="1576"/> At <hi>Torge,</hi> concerning divers Articles of Re<g ref="char:EOLhyphen"/>ligion <hi>Id.
+<milestone type="tcpmilestone" unit="unspecified" n="1585"/> p.</hi> 649. as afterwards in a Confe<g ref="char:EOLhyphen"/>rence at <hi>Bipont. Id.</hi> 780. and at <hi>Bades. Id.</hi> 655.</item>
+                  <item>7.
+<milestone type="tcpmilestone" unit="unspecified" n="1589"/> At <hi>Hetzburg</hi> about the book of concord <hi>Id.</hi> 750.
+<milestone type="tcpmilestone" unit="unspecified" n="1578"/>
+                  </item>
+               </list>
+            </p>
+            <p n="5">
+               <pb facs="tcp:36417:30"/>
+5. The more emi<g ref="char:EOLhyphen"/>nent Con<g ref="char:EOLhyphen"/>ferences with the Papiſts are
+<list>
+                  <item>1. At <hi>Wormes</hi> two, the firſt A. 1541. <hi>Sled.</hi> in that year, <hi>Adam. p.</hi> 338. The ſecond con<g ref="char:EOLhyphen"/>cerning diveſe articles of Religion, A. 1547. <hi>Adam p.</hi> 349.</item>
+                  <item>2. At <hi>Ratiſbone</hi> three, the firſt A. 1541. The ſecond 1546. concerning diverſe Articles of Religion by the ſame. The third con<g ref="char:EOLhyphen"/>cerning the Judge of controverſies, A. 1601. which is fully extant, by many, either appro<g ref="char:EOLhyphen"/>ved or handled.</item>
+                  <item>3. At <hi>Poſſiace,</hi> A. 1561. concerning diverſe Eccleſiaſtical matters, <hi>Sleid. Adam:</hi>
+                  </item>
+                  <item>4. At <hi>Saint Germains</hi> in the ſame year concer<g ref="char:EOLhyphen"/>ing the ſame matters. <hi>Adam.</hi>
+                  </item>
+                  <item>5. At <hi>Mompelgard,</hi> concerning the Sacrament and the perſon of Chriſt, A. 1586. where <hi>Beza</hi> is the chief diſputant. It is intirely extant.</item>
+                  <item>6. At <hi>Oxford</hi> in which <hi>Cranmar,</hi> Arch-Biſhop of <hi>Canterbury, Latimer</hi> Biſhop of <hi>Worceſter,</hi> and <hi>Ridley</hi> of <hi>London</hi> were invincible Champions of the truth, and ſuffered Martyrdom, <hi>Fox Martyrol.</hi>
+                  </item>
+                  <item>7. At <hi>London,</hi> the firſt in the time of Q. <hi>Mary,</hi> in which <hi>John Philpot</hi> excellently acted his part. The ſecond in the beginning of Queen <hi>Elizabeth;</hi> where the Papiſts challenged (as the armed <hi>Ephramites</hi>) to a combat, ſcarcely without laughter yeelded themſelves.</item>
+               </list>
+            </p>
+            <p n="6">
+               <pb n="58" facs="tcp:36417:31"/>
+6. <milestone type="tcpmilestone" unit="unspecified" n="1561"/> Between the <hi>Calviniſts,</hi> or <hi>Zwinglians</hi> (as they ſay) and the <hi>Lutherans,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1593"/> there was a Conference 1. At <hi>Malbrun</hi> con<g ref="char:EOLhyphen"/>cerning the Lords Supper,
+<milestone type="tcpmilestone" unit="unspecified" n="1577"/> and the Majeſty of Chriſt. 2. At <hi>Wittenburg,</hi> between <hi>
+                  <g ref="char:V">Ʋ</g>rbanus Pierius, and Hunnius,</hi> and other <hi>Lutherans</hi> 3. At <hi>Francofurt, Caſimire</hi> the <hi>Palatine</hi> pro<g ref="char:EOLhyphen"/>curing it. <hi>Alſted.</hi>
+            </p>
+            <p n="7">7. Conferences with the <hi>Anabaptiſts,</hi> frantick perſons, and <hi>Enthuſiaſts</hi> are theſe************</p>
+            <p n="8">8. With the <hi>Remonſtrants</hi> eſpecially is that Conference at the <hi>Hague,</hi> publiſhed diverſely by diverſe, as a prologue to which was the conteſt between <hi>Ameſius</hi> and <hi>Grevincho<g ref="char:EOLhyphen"/>vius.</hi>
+            </p>
+            <p n="9">9. Conferences with the <hi>Anti-trinitarians</hi> are 1. At <hi>Geneva</hi> of <hi>Calvin</hi> with <hi>Servetus</hi>***********</p>
+            <p n="10">10. Private Conferences may be added to theſe, as 1. The <hi>Vinarian Strigelius</hi> and <hi>Illyricus</hi> concerning free will, <hi>Adam p.</hi> 474. 2. At <hi>Argento:</hi> between <hi>Illyricus</hi> and <hi>Jacobus</hi> of <hi>Adrea</hi> concerning original ſin. 3. At <hi>Swalback</hi> between <hi>Pareus</hi> and <hi>Melhuſius</hi> and other <hi>Jeſuites.</hi> 4. At <hi>Fontbellack</hi> between <hi>Peronius</hi> and <hi>Du Pleſſis.</hi> 5. At <hi>Paris</hi> between <hi>Du Moullin</hi> and <hi>Guntyr.</hi> 6. Of <hi>Fulk, Hanmer</hi> and <hi>Chark,</hi> with <hi>Campian</hi> the Jeſuite. <hi>Reinold</hi> with <hi>Hart,</hi> which is full of Learning, to which others, which may be met with of the ſame kind, may be added by the Studious.</p>
+         </div>
+         <div type="index">
+            <pb facs="tcp:36417:31"/>
+            <head>An INDEX of CHAPTERS in the SYNOPSIS of COUNCELS.</head>
+            <div type="part">
+               <p>Of COUNCELS.
+<list>
+                     <item>1. Of SYNODS in general, <hi>pag.</hi> 1.</item>
+                     <item>2. JUDAICAL, <hi>p.</hi> 1.</item>
+                     <item>3. APOSTOLICAL, <hi>p.</hi> 8.</item>
+                     <item>4. OECUMENICAL GREEK, <hi>p.</hi> 11.</item>
+                     <item>5. OECUMENICAL LATINE, <hi>p.</hi> 21.</item>
+                     <item>6. CONTROVERTED, <hi>p.</hi> 31.</item>
+                     <item>7. REJECTED, <hi>p.</hi> 41.</item>
+                     <item>8. NATIONAL, <hi>p.</hi> 49.</item>
+                     <item>9. Of CONFERENCES, <hi>p.</hi> 55.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <head>A Catalogue of Councels.</head>
+               <div n="2" type="chapter">
+                  <head>CHAP. 2. Of Judaical Councels.</head>
+                  <p>Such have been meet<g ref="char:EOLhyphen"/>ings
+<list>
+                        <item>1 At <hi>Sichem,</hi> pag. 5.</item>
+                        <item>2 At <hi>Hieruſalem</hi> the firſt pag. 5.</item>
+                        <item>3 At <hi>Carmelita,</hi> pag. 5.</item>
+                        <item>4 At <hi>Hieruſalem</hi> the ſecond pag. 5.</item>
+                        <item>5 At <hi>Hieruſalem</hi> the third pag. 5.</item>
+                        <item>6 At <hi>Hieruſalem</hi> the fourth pag. 5.</item>
+                        <item>7 The <hi>Synod of the wiſe,</hi> pag. 6.</item>
+                     </list>
+                  </p>
+               </div>
+               <div n="3" type="chapter">
+                  <pb facs="tcp:36417:32"/>
+                  <head>CHAP. 3. Of Apoſtolical Councels</head>
+                  <p>Such Councels are com<g ref="char:EOLhyphen"/>monly noted
+<list>
+                        <item>1 <hi>For ſubſtituting</hi> Mathias <hi>in the place of</hi> Judas. <hi>p.</hi> 9.</item>
+                        <item>2 <hi>For the election of ſeven Deacons. p.</hi> 9.</item>
+                        <item>3 <hi>For the preſſing the Ceremonial Law. p.</hi> 9.</item>
+                        <item>4 <hi>For the toleration of ſome legal Ceremonies for a time. p.</hi> 9.</item>
+                        <item>5 <hi>For the meeting wherein was compoſed the A<g ref="char:EOLhyphen"/>poſtles Greed every one of them contributing part. p.</hi> 9.</item>
+                        <item>6 <hi>For the Meeting which obtruded to the Church</hi> 85 <hi>Canons of doubtful Gredit, under the no<g ref="char:EOLhyphen"/>tion of the Apoſtles Authority. p.</hi> 9.</item>
+                        <item>7 <hi>At Antioch. p.</hi> 9.</item>
+                     </list>
+                  </p>
+               </div>
+               <div n="4" type="chapter">
+                  <head>CHAP. 4. Of Greek Oecumenical Councels. or Eaſtern.</head>
+                  <p>The more famous of them were
+<list>
+                        <item>1 The <hi>Nicene</hi> the firſt, p 12, pag. 13.</item>
+                        <item>2 Of <hi>Conſtantinople</hi> the firſt, pag. 13.</item>
+                        <item>3 Of <hi>Epheſus</hi> the firſt, pag. 13.</item>
+                        <item>4 Of <hi>Calcedon</hi> p 13. pag. 13.</item>
+                        <item>5 Of <hi>Conſtantinople</hi> the ſecond p. 15.</item>
+                        <item>6 Of <hi>Conſtantinople</hi> the third p 16.</item>
+                        <item>7 The <hi>Nicene</hi> the ſecond p 17.</item>
+                     </list>
+                  </p>
+               </div>
+               <div n="5" type="chapter">
+                  <head>CHAP. 5. Of Latine Oecumenical Councels or Weſtern.</head>
+                  <p>Theſe runne pa<g ref="char:EOLhyphen"/>rallel with the Greek
+<list>
+                        <item>1 At <hi>Ariminum</hi> p 21.</item>
+                        <item>2 The <hi>Laterane</hi> p 22, and 23.</item>
+                        <item>3 At <hi>Lions</hi> p 24.</item>
+                        <item>4 At <hi>Vienna</hi> pag. 26.</item>
+                        <item>5 At <hi>Florence</hi> pag. 26.</item>
+                        <item>6 The <hi>Laterane</hi> the fifth p 27.</item>
+                        <item>7 At <hi>Trent</hi> p 28.</item>
+                     </list>
+                  </p>
+               </div>
+               <div n="6" type="chapter">
+                  <pb facs="tcp:36417:32"/>
+                  <head>CHAP. 6. Of Controverted Councels.</head>
+                  <p>Of which ſort are
+<list>
+                        <item>1 At <hi>Conſtantinople</hi> the fourth p 31.</item>
+                        <item>2 At <hi>Sardis</hi> pag. 33.</item>
+                        <item>3 At <hi>Syrmina</hi> pag. 33.</item>
+                        <item>4 At <hi>Quiniſext</hi> p 34.</item>
+                        <item>5 At <hi>Francofurt</hi> p 35.</item>
+                        <item>6 At <hi>Conſtance</hi> p 36, 37.</item>
+                        <item>7 At <hi>Baſil</hi> p 38.</item>
+                     </list>
+                  </p>
+               </div>
+               <div n="7" type="chapter">
+                  <head>CHAP. 7. Of Rejected Councels.</head>
+                  <p>Among theſe are noted a<g ref="char:EOLhyphen"/>bove the reſt
+<list>
+                        <item>1 At <hi>Antioch</hi> p 41.</item>
+                        <item>2 At <hi>Millaine</hi> p 42.</item>
+                        <item>3 At <hi>Seleucia</hi> p 43.</item>
+                        <item>4 At <hi>Epheſus</hi> the ſecond p 44.</item>
+                        <item>5 At <hi>Couſtantinople</hi> p 45.</item>
+                        <item>6 At <hi>Piſa</hi> the firſt p 46.</item>
+                        <item>7 At <hi>Piſa</hi> the ſecond p 47.</item>
+                     </list>
+                  </p>
+               </div>
+               <div n="8" type="chapter">
+                  <head>CHAP. 8. Of National Councels.</head>
+                  <p>They are diſtributed into
+<list>
+                        <item>1 <hi>Italian</hi> p 49.</item>
+                        <item>2 <hi>Spaniſh</hi> p 50.</item>
+                        <item>3 <hi>French.</hi> p 51.</item>
+                        <item>4 <hi>German</hi> p 51.</item>
+                        <item>5 <hi>Eaſtern</hi> p 52.</item>
+                        <item>6 <hi>African</hi> p 52.</item>
+                        <item>7 <hi>Brittain</hi> p 53.</item>
+                     </list>
+                  </p>
+               </div>
+               <div n="9" type="chapter">
+                  <pb facs="tcp:36417:33"/>
+                  <head>CAP. 9. Of Conferences</head>
+                  <p>Eccleſialtical Conferences are meetings of ſome Divines, and ſuch were
+<list>
+                        <item>1 By order of publick authority, of which Claſſis are thoſe with
+<list>
+                              <item>1 The <hi>diſ<g ref="char:EOLhyphen"/>ſenting Bre<g ref="char:EOLhyphen"/>thren</hi> for compoſing of their <hi>differences,</hi> viz.
+<list>
+                                    <item>1 At <hi>Marpurge,</hi> p. 56.</item>
+                                    <item>2 At <hi>Spira,</hi> p. 56.</item>
+                                    <item>3 The <hi>Smalchaldioan,</hi> p. 56.</item>
+                                    <item>4 The <hi>Intermiſiican,</hi> p. 56.</item>
+                                    <item>5 At <hi>Altenburg,</hi> p. 56.</item>
+                                    <item>6 At <hi>Torge,</hi> p. 56.</item>
+                                    <item>7 At <hi>Hetzburg.</hi> p. 56.</item>
+                                 </list>
+                              </item>
+                              <item>2 the Pa<g ref="char:EOLhyphen"/>piſts, the more emi<g ref="char:EOLhyphen"/>nent of which are
+<list>
+                                    <item>1 At <hi>Wormes,</hi> p. 57.</item>
+                                    <item>2 At <hi>Ratisbone,</hi> p. 57.</item>
+                                    <item>3 At <hi>Poſſiace,</hi> p. 57.</item>
+                                    <item>4 At <hi>Saint Germians,</hi> p. 57.</item>
+                                    <item>5 At <hi>Mompelgard,</hi> p. 57.</item>
+                                    <item>6 At <hi>Oxford,</hi> p. 57.</item>
+                                    <item>7 At <hi>London,</hi> p. 57.</item>
+                                 </list>
+                              </item>
+                              <item>3 The <hi>Lutherans, Cal<g ref="char:EOLhyphen"/>viniſts, Zwinglians</hi> a<g ref="char:EOLhyphen"/>mong themſelves
+<list>
+                                    <item>1 At <hi>Malburne</hi> 58</item>
+                                    <item>2 At <hi>Wittenberg</hi> 58</item>
+                                    <item>3 At <hi>Francofurt</hi> 58</item>
+                                 </list>
+                              </item>
+                              <item>4 The <hi>Anabaptiſts,</hi> **** ibid,</item>
+                              <item>5 The <hi>Remonſtrants,</hi> eſpecially that at <hi>Hague</hi> **** ibid,</item>
+                              <item>6 The <hi>Antitrinitarians,</hi> as 1 At <hi>Gene<g ref="char:EOLhyphen"/>va,</hi> **** ibid,</item>
+                              <item>7 The <hi>Diſciplinarians,</hi> ibid,</item>
+                           </list>
+                        </item>
+                        <item>2 A private arbitrary diſputation of Learned men, to which may be referred the
+<list>
+                              <item>1 The <hi>Vinarian,</hi> p. 58.</item>
+                              <item>2 At <hi>Argentor,</hi> p. 58.</item>
+                              <item>3 At <hi>Swalback,</hi> p. 58.</item>
+                              <item>4 At <hi>Fontbellack,</hi> p. 58.</item>
+                              <item>5 At <hi>Paris,</hi> p. 58.</item>
+                              <item>6 Of <hi>Fulke Hanmer,</hi> &amp;c. with <hi>Campian</hi> the <hi>Je<g ref="char:EOLhyphen"/>ſuite,</hi> p. 58.</item>
+                              <item>7 Of <hi>Reinolds</hi> with <hi>Hart</hi> **** p. 58.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:36417:33"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
